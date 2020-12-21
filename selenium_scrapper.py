@@ -27,13 +27,13 @@ countries3 = ['Turkey', 'Philippines', 'Peru', 'Colombia', 'Belarus', 'Indonesia
               'Kenya', 'Iran', 'Bangladesh']
 
 
-def start_driver():
+def start_driver(headless=True):
     print('initiating driver')
     options = webdriver.ChromeOptions()
-    options.headless = True
+    options.headless = headless
     driver = webdriver.Chrome(CHROME_PATH, options=options)
     get_url(driver, url)
-    driver.maximize_window()
+    # driver.maximize_window()
     print('checking sign-in')
     try:
         sign_in = driver.find_element_by_xpath('/html/body/header/nav/div[2]/ul[3]/li[2]/a')
@@ -63,6 +63,10 @@ def get_url(driver, url):
         time.sleep(5)
         if tries < 5:
             return get_url(driver, url)
+
+
+def write_to(pages, file='pay1.csv'):
+    write_to_csv(pages, file=file)
 
 
 driver = start_driver()
@@ -102,7 +106,7 @@ for job in jobs:
 
         if len(pages) == WRITE_AFTER_PGS:
             print(f"more than {WRITE_AFTER_PGS} pages here. Let's write it into csv")
-            write_to_csv(pages)
+            write_to(pages)
             pages = []
 
         if tab_n == RESTART_DRIVER_PGS:
@@ -114,7 +118,7 @@ for job in jobs:
             print(f'epoch {epoch}')
             if len(pages) > 0:
                 print('writing pages to csv')
-                write_to_csv(pages)
+                write_to(pages)
                 pages = []
 
 
@@ -122,4 +126,4 @@ print('Quitting driver')
 driver.quit()
 print("adding left overs to csv")
 if len(pages) > 0:
-    write_to_csv(pages)
+    write_to(pages)
