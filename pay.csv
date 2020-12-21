@@ -1,0 +1,636 @@
+Machine Learning Engineer,Switzerland,CHF,96000, yr,Very High
+Machine Learning Engineer,USA,$,114000, yr,Very High
+Machine Learning Engineer,Israel,₪,29971, mo,Very High
+Machine Learning Engineer,Australia,A$,110000, yr,Very High
+Machine Learning Engineer,UK,£,50208, yr,Very High
+Machine Learning Engineer,Canada,CA$,87000, yr,Very High
+Machine Learning Engineer,Germany,€,62000, yr,Very High
+Machine Learning Engineer,Netherlands,€,69377, yr,Very High
+Machine Learning Engineer,UAE,,,,
+Machine Learning Engineer,Sweden,kr,48000, mo,High
+Machine Learning Engineer,Belgium,€,2767, mo,Low
+Machine Learning Engineer,Singapore,S$,6000, mo,Very High
+Machine Learning Engineer,Ireland,€,49410, yr,Low
+Machine Learning Engineer,France,€,47505, yr,Very High
+Machine Learning Engineer,Japan,¥,5953000, yr,Very High
+Machine Learning Engineer,Spain,€,35000, yr,Very High
+Machine Learning Engineer,South Africa,,753316, yr,Low
+Machine Learning Engineer,Italy,€,36070, yr,Very High
+Machine Learning Engineer,South Korea,₩,59565000, yr,Very High
+Data Scientist,Switzerland,CHF,109000, yr,Very High
+Data Scientist,USA,$,113000, yr,Very High
+Data Scientist,Israel,₪,275000, yr,Very High
+Data Scientist,Australia,A$,110000, yr,Very High
+Data Scientist,UK,£,45000, yr,Very High
+Data Scientist,Canada,CA$,85000, yr,Very High
+Data Scientist,Germany,€,60114, yr,Very High
+Data Scientist,Netherlands,€,61548, yr,Very High
+Data Scientist,UAE,,,,
+Data Scientist,Sweden,kr,549000, yr,Very High
+Data Scientist,Belgium,€,58008, yr,Very High
+Data Scientist,Singapore,S$,74000, yr,Very High
+Data Scientist,Ireland,€,48904, yr,Very High
+Data Scientist,France,€,44953, yr,Very High
+Data Scientist,Japan,¥,5680000, yr,Very High
+Data Scientist,Spain,€,35325, yr,Very High
+Data Scientist,South Africa,,548842, yr,Very High
+Data Scientist,Italy,€,31951, yr,Very High
+Data Scientist,South Korea,₩,52407000, yr,Very High
+Research Scientist,Switzerland,CHF,105000, yr,Very High
+Research Scientist,USA,$,77173, yr,Very High
+Research Scientist,Israel,₪,19558, mo,Very High
+Research Scientist,Australia,A$,101000, yr,Very High
+Research Scientist,UK,£,34866, yr,Very High
+Research Scientist,Canada,CA$,77000, yr,Very High
+Research Scientist,Germany,€,58068, yr,Very High
+Research Scientist,Netherlands,€,59574, yr,Very High
+Research Scientist,UAE,,,,
+Research Scientist,Sweden,kr,38000, mo,Very High
+Research Scientist,Belgium,€,60036, yr,Very High
+Research Scientist,Singapore,S$,80000, yr,Very High
+Research Scientist,Ireland,€,49508, yr,Very High
+Research Scientist,France,€,52053, yr,Very High
+Research Scientist,Japan,¥,6069000, yr,Very High
+Research Scientist,Spain,€,37896, yr,Very High
+Research Scientist,South Africa,,464805, yr,High
+Research Scientist,Italy,€,35860, yr,Very High
+Research Scientist,South Korea,₩,54705000, yr,Very High
+Software Engineer,Switzerland,CHF,99000, yr,Very High
+Software Engineer,USA,$,92046, yr,Very High
+Software Engineer,Israel,₪,250000, yr,Very High
+Software Engineer,Australia,A$,98000, yr,Very High
+Software Engineer,UK,£,45000, yr,Very High
+Software Engineer,Canada,CA$,83000, yr,Very High
+Software Engineer,Germany,€,60000, yr,Very High
+Software Engineer,Netherlands,€,60762, yr,Very High
+Software Engineer,UAE,,,,
+Software Engineer,Sweden,kr,461000, yr,Very High
+Software Engineer,Belgium,€,46460, yr,Very High
+Software Engineer,Singapore,S$,68000, yr,Very High
+Software Engineer,Ireland,€,49216, yr,Very High
+Software Engineer,France,€,43000, yr,Very High
+Software Engineer,Japan,¥,5988000, yr,Very High
+Software Engineer,Spain,€,36156, yr,Very High
+Software Engineer,South Africa,,501123, yr,Very High
+Software Engineer,Italy,€,31985, yr,Very High
+Software Engineer,South Korea,₩,50928000, yr,Very High
+Business Analyst,Switzerland,CHF,103000, yr,Very High
+Business Analyst,USA,$,68346, yr,Very High
+Business Analyst,Israel,₪,15075, mo,Very High
+Business Analyst,Australia,A$,90000, yr,Very High
+Business Analyst,UK,£,40000, yr,Very High
+Business Analyst,Canada,CA$,65000, yr,Very High
+Business Analyst,Germany,€,53176, yr,Very High
+Business Analyst,Netherlands,€,53264, yr,Very High
+Business Analyst,UAE,,,,
+Business Analyst,Sweden,kr,400000, yr,Very High
+Business Analyst,Belgium,€,47286, yr,Very High
+Business Analyst,Singapore,S$,71000, yr,Very High
+Business Analyst,Ireland,€,41998, yr,Very High
+Business Analyst,France,€,40616, yr,Very High
+Business Analyst,Japan,¥,5750000, yr,Very High
+Business Analyst,Spain,€,28147, yr,Very High
+Business Analyst,South Africa,,565608, yr,Very High
+Business Analyst,Italy,€,25550, yr,Very High
+Business Analyst,South Korea,₩,53258000, yr,Very High
+Product Manager,Switzerland,CHF,109000, yr,Very High
+Product Manager,USA,$,109000, yr,Very High
+Product Manager,Israel,₪,193000, yr,Very High
+Product Manager,Australia,A$,112000, yr,Very High
+Product Manager,UK,£,50000, yr,Very High
+Product Manager,Canada,CA$,86000, yr,Very High
+Product Manager,Germany,€,62279, yr,Very High
+Product Manager,Netherlands,€,70383, yr,Very High
+Product Manager,UAE,,,,
+Product Manager,Sweden,kr,612000, yr,Very High
+Product Manager,Belgium,€,69516, yr,Very High
+Product Manager,Singapore,S$,85000, yr,Very High
+Product Manager,Ireland,€,64938, yr,Very High
+Product Manager,France,€,49995, yr,Very High
+Product Manager,Japan,¥,6979000, yr,Very High
+Product Manager,Spain,€,47317, yr,Very High
+Product Manager,South Africa,,712038, yr,Very High
+Product Manager,Italy,€,42625, yr,Very High
+Product Manager,South Korea,₩,52100000, yr,Very High
+Project Manager,Switzerland,CHF,109000, yr,Very High
+Project Manager,USA,$,66137, yr,Very High
+Project Manager,Israel,₪,197000, yr,Very High
+Project Manager,Australia,A$,110000, yr,Very High
+Project Manager,UK,£,45000, yr,Very High
+Project Manager,Canada,CA$,85000, yr,Very High
+Project Manager,Germany,€,62029, yr,Very High
+Project Manager,Netherlands,€,63686, yr,Very High
+Project Manager,UAE,,,,
+Project Manager,Sweden,kr,506000, yr,Very High
+Project Manager,Belgium,€,65667, yr,Very High
+Project Manager,Singapore,S$,94000, yr,Very High
+Project Manager,Ireland,€,56874, yr,Very High
+Project Manager,France,€,49947, yr,Very High
+Project Manager,Japan,¥,7432000, yr,Very High
+Project Manager,Spain,€,36360, yr,Very High
+Project Manager,South Africa,,804636, yr,Very High
+Project Manager,Italy,€,42459, yr,Very High
+Project Manager,South Korea,₩,56200000, yr,Very High
+Data Engineer,Switzerland,CHF,100000, yr,Very High
+Data Engineer,USA,$,103000, yr,Very High
+Data Engineer,Israel,₪,26013, mo,Very High
+Data Engineer,Australia,A$,100000, yr,Very High
+Data Engineer,UK,£,44765, yr,Very High
+Data Engineer,Canada,CA$,85000, yr,Very High
+Data Engineer,Germany,€,60170, yr,Very High
+Data Engineer,Netherlands,€,51909, yr,Very High
+Data Engineer,UAE,,,,
+Data Engineer,Sweden,kr,44000, mo,Very High
+Data Engineer,Belgium,€,3209, mo,High
+Data Engineer,Singapore,S$,82000, yr,Very High
+Data Engineer,Ireland,€,57510, yr,Very High
+Data Engineer,France,€,43601, yr,Very High
+Data Engineer,Japan,¥,5498000, yr,Very High
+Data Engineer,Spain,€,34406, yr,Very High
+Data Engineer,South Africa,,500000, yr,Low
+Data Engineer,Italy,€,30604, yr,Very High
+Data Engineer,South Korea,₩,53218000, yr,Low
+Statistician,Switzerland,CHF,124000, yr,High
+Statistician,USA,$,76884, yr,Very High
+Statistician,Israel,₪,16161, mo,Low
+Statistician,Australia,A$,91000, yr,High
+Statistician,UK,£,40184, yr,Very High
+Statistician,Canada,CA$,67000, yr,Very High
+Statistician,Germany,€,87100, yr,Low
+Statistician,Netherlands,€,58019, yr,Low
+Statistician,UAE,,,,
+Statistician,Sweden,kr,33000, mo,Very High
+Statistician,Belgium,€,52111, yr,Low
+Statistician,Singapore,S$,4000, mo,High
+Statistician,Ireland,€,50885, yr,High
+Statistician,France,€,31068, yr,Very High
+Statistician,Japan,¥,305000, mo,Low
+Statistician,Spain,,,,
+Statistician,South Africa,,,,
+Statistician,Italy,€,42754, yr,Low
+Statistician,South Korea,,,,
+Data Analyst,Switzerland,CHF,96000, yr,Very High
+Data Analyst,USA,$,62453, yr,Very High
+Data Analyst,Israel,₪,90300, yr,Very High
+Data Analyst,Australia,A$,83000, yr,Very High
+Data Analyst,UK,£,30241, yr,Very High
+Data Analyst,Canada,CA$,60000, yr,Very High
+Data Analyst,Germany,€,52550, yr,Very High
+Data Analyst,Netherlands,€,48131, yr,Very High
+Data Analyst,UAE,,,,
+Data Analyst,Sweden,kr,35000, mo,Very High
+Data Analyst,Belgium,€,48000, yr,Very High
+Data Analyst,Singapore,S$,55000, yr,Very High
+Data Analyst,Ireland,€,33765, yr,Very High
+Data Analyst,France,€,41156, yr,Very High
+Data Analyst,Japan,¥,5730000, yr,Very High
+Data Analyst,Spain,€,28174, yr,Very High
+Data Analyst,South Africa,,409437, yr,Very High
+Data Analyst,Italy,€,29884, yr,Very High
+Data Analyst,South Korea,₩,46660000, yr,Low
+Database Administrator,Switzerland,CHF,64000, yr,Low
+Database Administrator,USA,$,78779, yr,Very High
+Database Administrator,Israel,,,,
+Database Administrator,Australia,A$,88000, yr,Very High
+Database Administrator,UK,£,35096, yr,Very High
+Database Administrator,Canada,CA$,81000, yr,Very High
+Database Administrator,Germany,€,51506, yr,Very High
+Database Administrator,Netherlands,€,2399, mo,High
+Database Administrator,UAE,,,,
+Database Administrator,Sweden,kr,619000, yr,Low
+Database Administrator,Belgium,€,12247, yr,Low
+Database Administrator,Singapore,S$,4800, mo,Very High
+Database Administrator,Ireland,€,42609, yr,Very High
+Database Administrator,France,€,45788, yr,High
+Database Administrator,Japan,¥,9974000, yr,Low
+Database Administrator,Spain,€,38857, yr,High
+Database Administrator,South Africa,,18473, mo,Very High
+Database Administrator,Italy,€,41042, yr,Very High
+Database Administrator,South Korea,₩,54815000, yr,Low
+Database Engineer,Switzerland,CHF,168000, yr,Low
+Database Engineer,USA,$,142000, yr,Very High
+Database Engineer,Israel,,,,
+Database Engineer,Australia,,,,
+Database Engineer,UK,£,43325, yr,Very High
+Database Engineer,Canada,,,,
+Database Engineer,Germany,€,63903, yr,High
+Database Engineer,Netherlands,€,5806, mo,Low
+Database Engineer,UAE,,,,
+Database Engineer,Sweden,kr,651000, yr,Low
+Database Engineer,Belgium,,,,
+Database Engineer,Singapore,S$,207000, yr,Low
+Database Engineer,Ireland,€,68070, yr,Low
+Database Engineer,France,,,,
+Database Engineer,Japan,¥,315000, mo,Low
+Database Engineer,Spain,,,,
+Database Engineer,South Africa,,,,
+Database Engineer,Italy,,,,
+Database Engineer,South Korea,₩,45070000, yr,Low
+Machine Learning Engineer,Republic of Korea,,,,
+Machine Learning Engineer,China,¥,300000, yr,High
+Machine Learning Engineer,Saudi Arabia,,,,
+Machine Learning Engineer,Poland,,150112, yr,Low
+Machine Learning Engineer,Portugal,€,29431, yr,Low
+Machine Learning Engineer,Mexico,MXN$,17000, mo,High
+Machine Learning Engineer,Thailand,฿,42000, mo,Low
+Machine Learning Engineer,Romania,,4500, mo,High
+Machine Learning Engineer,Taiwan,,1260000, yr,Very High
+Machine Learning Engineer,Chile,,1442000, mo,Low
+Machine Learning Engineer,Greece,€,1300, mo,High
+Machine Learning Engineer,Brazil,R$,6846, mo,Very High
+Machine Learning Engineer,Malaysia,,7400, mo,Low
+Machine Learning Engineer,Russia,₽,150000, mo,Very High
+Machine Learning Engineer,India,₹,761000, yr,Very High
+Machine Learning Engineer,Ukraine,,,,
+Machine Learning Engineer,Argentina,ARS$,114000, mo,Low
+Machine Learning Engineer,Tunisia,,1850, mo,Low
+Data Scientist,Republic of Korea,,,,
+Data Scientist,China,¥,312000, yr,Very High
+Data Scientist,Saudi Arabia,,180242, yr,Low
+Data Scientist,Poland,,100149, yr,Very High
+Data Scientist,Portugal,€,27817, yr,Very High
+Data Scientist,Mexico,MXN$,34000, mo,Very High
+Data Scientist,Thailand,฿,50000, mo,Very High
+Data Scientist,Romania,,4500, mo,High
+Data Scientist,Taiwan,,1275000, yr,High
+Data Scientist,Chile,,1724000, mo,Very High
+Data Scientist,Greece,€,1312, mo,Very High
+Data Scientist,Brazil,R$,94000, yr,Very High
+Data Scientist,Malaysia,,6000, mo,Very High
+Data Scientist,Russia,₽,141000, mo,Very High
+Data Scientist,India,₹,1000000, yr,Very High
+Data Scientist,Ukraine,,87600, mo,Low
+Data Scientist,Argentina,ARS$,117000, mo,Very High
+Data Scientist,Tunisia,,1650, mo,High
+Research Scientist,Republic of Korea,,,,
+Research Scientist,China,¥,227000, yr,Very High
+Research Scientist,Saudi Arabia,,320000, yr,High
+Research Scientist,Poland,,4333, mo,Low
+Research Scientist,Portugal,€,1679, mo,High
+Research Scientist,Mexico,MXN$,30000, mo,Low
+Research Scientist,Thailand,,,,
+Research Scientist,Romania,,,,
+Research Scientist,Taiwan,,1284000, yr,Low
+Research Scientist,Chile,,765088, mo,Low
+Research Scientist,Greece,€,1184, mo,High
+Research Scientist,Brazil,R$,9149, mo,Very High
+Research Scientist,Malaysia,,42000, yr,Low
+Research Scientist,Russia,₽,42141, mo,Very High
+Research Scientist,India,₹,986000, yr,Very High
+Research Scientist,Ukraine,,15750, mo,Low
+Research Scientist,Argentina,ARS$,72000, mo,High
+Research Scientist,Tunisia,,,,
+Software Engineer,Republic of Korea,,,,
+Software Engineer,China,¥,256000, yr,Very High
+Software Engineer,Saudi Arabia,,111669, yr,Very High
+Software Engineer,Poland,,114005, yr,Very High
+Software Engineer,Portugal,€,27123, yr,Very High
+Software Engineer,Mexico,MXN$,398000, yr,Very High
+Software Engineer,Thailand,฿,410000, yr,Very High
+Software Engineer,Romania,,97000, yr,Very High
+Software Engineer,Taiwan,,905000, yr,Very High
+Software Engineer,Chile,,1600000, mo,Very High
+Software Engineer,Greece,€,22942, yr,Very High
+Software Engineer,Brazil,R$,103000, yr,Very High
+Software Engineer,Malaysia,,48000, yr,Very High
+Software Engineer,Russia,₽,1399000, yr,Very High
+Software Engineer,India,₹,600000, yr,Very High
+Software Engineer,Ukraine,,460000, yr,Very High
+Software Engineer,Argentina,ARS$,1366000, yr,Very High
+Software Engineer,Tunisia,,19400, yr,Very High
+Business Analyst,Republic of Korea,,,,
+Business Analyst,China,¥,204000, yr,Very High
+Business Analyst,Saudi Arabia,,13024, mo,Very High
+Business Analyst,Poland,,86073, yr,Very High
+Business Analyst,Portugal,€,27014, yr,Very High
+Business Analyst,Mexico,MXN$,485000, yr,Very High
+Business Analyst,Thailand,฿,35000, mo,Very High
+Business Analyst,Romania,,4300, mo,Very High
+Business Analyst,Taiwan,,675000, yr,Very High
+Business Analyst,Chile,,1095000, mo,Very High
+Business Analyst,Greece,€,18279, yr,Very High
+Business Analyst,Brazil,R$,101000, yr,Very High
+Business Analyst,Malaysia,,54600, yr,Very High
+Business Analyst,Russia,₽,1050000, yr,Very High
+Business Analyst,India,₹,665000, yr,Very High
+Business Analyst,Ukraine,,11500, mo,Very High
+Business Analyst,Argentina,ARS$,165000, yr,Very High
+Business Analyst,Tunisia,,45000, yr,Low
+Product Manager,Republic of Korea,,,,
+Product Manager,China,¥,276000, yr,Very High
+Product Manager,Saudi Arabia,,19690, mo,Very High
+Product Manager,Poland,,125525, yr,Very High
+Product Manager,Portugal,€,36850, yr,Very High
+Product Manager,Mexico,MXN$,409000, yr,Very High
+Product Manager,Thailand,฿,70000, mo,Very High
+Product Manager,Romania,,71000, yr,Very High
+Product Manager,Taiwan,,900000, yr,Very High
+Product Manager,Chile,,2473000, mo,Very High
+Product Manager,Greece,€,32496, yr,Very High
+Product Manager,Brazil,R$,180000, yr,Very High
+Product Manager,Malaysia,,78500, yr,Very High
+Product Manager,Russia,₽,2017000, yr,Very High
+Product Manager,India,₹,1500000, yr,Very High
+Product Manager,Ukraine,,22500, mo,Very High
+Product Manager,Argentina,ARS$,2005000, yr,Very High
+Product Manager,Tunisia,,50843, yr,Low
+Project Manager,Republic of Korea,,,,
+Project Manager,China,¥,242000, yr,Very High
+Project Manager,Saudi Arabia,,166724, yr,Very High
+Project Manager,Poland,,120089, yr,Very High
+Project Manager,Portugal,€,33237, yr,Very High
+Project Manager,Mexico,MXN$,584000, yr,Very High
+Project Manager,Thailand,฿,70000, mo,Very High
+Project Manager,Romania,,54000, yr,Very High
+Project Manager,Taiwan,,1000000, yr,Very High
+Project Manager,Chile,,2585000, mo,Very High
+Project Manager,Greece,€,29432, yr,Very High
+Project Manager,Brazil,R$,168000, yr,Very High
+Project Manager,Malaysia,,101000, yr,Very High
+Project Manager,Russia,₽,1892000, yr,Very High
+Project Manager,India,₹,1250000, yr,Very High
+Project Manager,Ukraine,,30000, mo,Very High
+Project Manager,Argentina,ARS$,1320000, yr,Very High
+Project Manager,Tunisia,,2250, mo,Very High
+Data Engineer,Republic of Korea,,,,
+Data Engineer,China,¥,18666, mo,Very High
+Data Engineer,Saudi Arabia,,,,
+Data Engineer,Poland,,10069, mo,Very High
+Data Engineer,Portugal,€,27246, yr,Very High
+Data Engineer,Mexico,MXN$,31000, mo,Very High
+Data Engineer,Thailand,฿,65000, mo,High
+Data Engineer,Romania,,24000, yr,Low
+Data Engineer,Taiwan,,57000, mo,High
+Data Engineer,Chile,,17640000, yr,Low
+Data Engineer,Greece,€,29081, yr,Low
+Data Engineer,Brazil,R$,8100, mo,Very High
+Data Engineer,Malaysia,,3995, mo,Very High
+Data Engineer,Russia,₽,600000, yr,Very High
+Data Engineer,India,₹,700000, yr,Very High
+Data Engineer,Ukraine,,,,
+Data Engineer,Argentina,ARS$,97000, mo,Very High
+Data Engineer,Tunisia,,1650, mo,Low
+Database Administrator,Republic of Korea,,,,
+Database Administrator,China,¥,7007, mo,High
+Database Administrator,Saudi Arabia,,15767, mo,Low
+Database Administrator,Poland,,9103, mo,High
+Database Administrator,Portugal,€,15856, yr,Low
+Database Administrator,Mexico,MXN$,36000, mo,Very High
+Database Administrator,Thailand,฿,40000, mo,Low
+Database Administrator,Romania,,3750, mo,Very High
+Database Administrator,Taiwan,,59500, mo,Low
+Database Administrator,Chile,,491433, mo,Low
+Database Administrator,Greece,€,1830, mo,Low
+Database Administrator,Brazil,R$,5917, mo,Very High
+Database Administrator,Malaysia,,6400, mo,Very High
+Database Administrator,Russia,₽,122000, mo,High
+Database Administrator,India,₹,682000, yr,Very High
+Database Administrator,Ukraine,,,,
+Database Administrator,Argentina,ARS$,71000, mo,Low
+Database Administrator,Tunisia,,,,
+Database Engineer,Republic of Korea,,,,
+Database Engineer,China,¥,243000, yr,Low
+Database Engineer,Saudi Arabia,,,,
+Database Engineer,Poland,,5508, mo,Low
+Database Engineer,Portugal,,,,
+Database Engineer,Mexico,MXN$,31000, mo,Low
+Database Engineer,Thailand,฿,55000, mo,Low
+Database Engineer,Romania,,,,
+Database Engineer,Taiwan,,,,
+Database Engineer,Chile,,,,
+Database Engineer,Greece,€,1708, mo,Low
+Database Engineer,Brazil,R$,219000, yr,Low
+Database Engineer,Malaysia,,4800, mo,Low
+Database Engineer,Russia,₽,158000, mo,Low
+Database Engineer,India,₹,914000, yr,Very High
+Database Engineer,Ukraine,,3000, mo,Low
+Database Engineer,Argentina,,,,
+Database Engineer,Tunisia,,,,
+Statistician,Republic of Korea,,,,
+Statistician,China,¥,7036, mo,Low
+Statistician,Saudi Arabia,,6375, mo,Low
+Statistician,Poland,,3965, mo,Low
+Statistician,Portugal,€,30150, yr,Low
+Statistician,Mexico,MXN$,34000, mo,Low
+Statistician,Thailand,,,,
+Statistician,Romania,,3500, mo,Low
+Statistician,Taiwan,,800000, yr,Low
+Statistician,Chile,,1510000, mo,Low
+Statistician,Greece,,,,
+Statistician,Brazil,R$,5227, mo,High
+Statistician,Malaysia,,5600, mo,Low
+Statistician,Russia,₽,141000, mo,Low
+Statistician,India,₹,514000, yr,Very High
+Statistician,Ukraine,,,,
+Statistician,Argentina,,,,
+Statistician,Tunisia,,,,
+Data Analyst,Republic of Korea,,,,
+Data Analyst,China,¥,189000, yr,Very High
+Data Analyst,Saudi Arabia,,9431, mo,Very High
+Data Analyst,Poland,,49529, yr,Very High
+Data Analyst,Portugal,€,22841, yr,Very High
+Data Analyst,Mexico,MXN$,278000, yr,Very High
+Data Analyst,Thailand,฿,28000, mo,Very High
+Data Analyst,Romania,,2850, mo,Very High
+Data Analyst,Taiwan,,45000, mo,Very High
+Data Analyst,Chile,,1686000, mo,High
+Data Analyst,Greece,€,16000, yr,Very High
+Data Analyst,Brazil,R$,47000, yr,Very High
+Data Analyst,Malaysia,,50000, yr,Very High
+Data Analyst,Russia,₽,126000, mo,Very High
+Data Analyst,India,₹,500000, yr,Very High
+Data Analyst,Ukraine,,180000, yr,Low
+Data Analyst,Argentina,ARS$,68000, mo,Very High
+Data Analyst,Tunisia,,1900, mo,Low
+Machine Learning Engineer,Turkey,₺,80276, yr,Low
+Machine Learning Engineer,Philippines,,,,
+Machine Learning Engineer,Peru,,,,
+Machine Learning Engineer,Colombia,,114000, yr,Low
+Machine Learning Engineer,Belarus,,,,
+Machine Learning Engineer,Indonesia,,11962000, mo,Low
+Machine Learning Engineer,Morocco,,,,
+Machine Learning Engineer,Pakistan,₨,67500, mo,Very High
+Machine Learning Engineer,Viet Nam,,,,
+Machine Learning Engineer,Egypt,,8500, mo,High
+Machine Learning Engineer,Sri Lanka,,,,
+Machine Learning Engineer,Nigeria,,150000, mo,Low
+Machine Learning Engineer,Kenya,,,,
+Machine Learning Engineer,Iran,,37000000, yr,Low
+Machine Learning Engineer,Bangladesh,,50000, mo,High
+Data Scientist,Turkey,₺,7373, mo,Very High
+Data Scientist,Philippines,,492000, yr,Very High
+Data Scientist,Peru,,4500, mo,Low
+Data Scientist,Colombia,,5412000, mo,Very High
+Data Scientist,Belarus,,,,
+Data Scientist,Indonesia,,13094000, mo,Very High
+Data Scientist,Morocco,,400000, yr,Low
+Data Scientist,Pakistan,₨,950000, yr,Very High
+Data Scientist,Viet Nam,,500000, yr,Low
+Data Scientist,Egypt,,10000, mo,Very High
+Data Scientist,Sri Lanka,,14000000, yr,Low
+Data Scientist,Nigeria,,2772000, yr,Low
+Data Scientist,Kenya,,,,
+Data Scientist,Iran,,55500000, mo,Very High
+Data Scientist,Bangladesh,,70000, mo,Low
+Research Scientist,Turkey,₺,101000, yr,Low
+Research Scientist,Philippines,,38000, mo,Low
+Research Scientist,Peru,,,,
+Research Scientist,Colombia,,,,
+Research Scientist,Belarus,,,,
+Research Scientist,Indonesia,,13982000, mo,Low
+Research Scientist,Morocco,,,,
+Research Scientist,Pakistan,₨,30000, mo,Low
+Research Scientist,Viet Nam,,,,
+Research Scientist,Egypt,,4000, mo,Low
+Research Scientist,Sri Lanka,,50000, mo,Low
+Research Scientist,Nigeria,,1000000, yr,Low
+Research Scientist,Kenya,,115000, mo,Low
+Research Scientist,Iran,,,,
+Research Scientist,Bangladesh,,,,
+Software Engineer,Turkey,₺,112000, yr,Very High
+Software Engineer,Philippines,,390000, yr,Very High
+Software Engineer,Peru,,5000, mo,Very High
+Software Engineer,Colombia,,73572000, yr,Very High
+Software Engineer,Belarus,,6000, mo,Very High
+Software Engineer,Indonesia,,90067000, yr,Very High
+Software Engineer,Morocco,,9500, mo,Very High
+Software Engineer,Pakistan,₨,650000, yr,Very High
+Software Engineer,Viet Nam,,13000000, mo,Very High
+Software Engineer,Egypt,,93000, yr,Very High
+Software Engineer,Sri Lanka,,580000, yr,Very High
+Software Engineer,Nigeria,,2915000, yr,Very High
+Software Engineer,Kenya,,1800000, yr,Very High
+Software Engineer,Iran,,240000, yr,Very High
+Software Engineer,Bangladesh,,480000, yr,Very High
+Business Analyst,Turkey,₺,92533, yr,Very High
+Business Analyst,Philippines,,419400, yr,Very High
+Business Analyst,Peru,,5050, mo,High
+Business Analyst,Colombia,,4522000, mo,Very High
+Business Analyst,Belarus,,53500, yr,Low
+Business Analyst,Indonesia,,163000, yr,Very High
+Business Analyst,Morocco,,14000, mo,Very High
+Business Analyst,Pakistan,₨,1050000, yr,Very High
+Business Analyst,Viet Nam,,120000, yr,Low
+Business Analyst,Egypt,,6700, mo,Very High
+Business Analyst,Sri Lanka,,65000, mo,Very High
+Business Analyst,Nigeria,,1950000, yr,Very High
+Business Analyst,Kenya,,87000, mo,Very High
+Business Analyst,Iran,,47000000, mo,Very High
+Business Analyst,Bangladesh,,34000, mo,Very High
+Product Manager,Turkey,₺,149000, yr,Very High
+Product Manager,Philippines,,530000, yr,Very High
+Product Manager,Peru,,120000, yr,Very High
+Product Manager,Colombia,,7931000, mo,Very High
+Product Manager,Belarus,,5500000, mo,Low
+Product Manager,Indonesia,,40000000, yr,Very High
+Product Manager,Morocco,,20000, mo,High
+Product Manager,Pakistan,₨,100000, mo,Very High
+Product Manager,Viet Nam,,560000, yr,Low
+Product Manager,Egypt,,11000, mo,Very High
+Product Manager,Sri Lanka,,128000, mo,Low
+Product Manager,Nigeria,,5000000, yr,Very High
+Product Manager,Kenya,,243500, mo,Very High
+Product Manager,Iran,,70000000, mo,Very High
+Product Manager,Bangladesh,,50000, mo,Very High
+Project Manager,Turkey,₺,171000, yr,Very High
+Project Manager,Philippines,,960000, yr,Very High
+Project Manager,Peru,,8200, mo,Very High
+Project Manager,Colombia,,73784000, yr,Very High
+Project Manager,Belarus,,15000000, yr,Low
+Project Manager,Indonesia,,200000, yr,Very High
+Project Manager,Morocco,,18000, mo,Very High
+Project Manager,Pakistan,₨,400000, yr,Very High
+Project Manager,Viet Nam,,24000000, mo,Very High
+Project Manager,Egypt,,120000, yr,Very High
+Project Manager,Sri Lanka,,180000, mo,Very High
+Project Manager,Nigeria,,5100000, yr,Very High
+Project Manager,Kenya,,150000, mo,Very High
+Project Manager,Iran,,47000000, mo,Very High
+Project Manager,Bangladesh,,240000, yr,Very High
+Data Engineer,Turkey,₺,6994, mo,Very High
+Data Engineer,Philippines,,45000, mo,Very High
+Data Engineer,Peru,,5200, mo,Low
+Data Engineer,Colombia,,3507000, mo,Very High
+Data Engineer,Belarus,,18000, yr,Low
+Data Engineer,Indonesia,,12694000, mo,Very High
+Data Engineer,Morocco,,19000, mo,Low
+Data Engineer,Pakistan,₨,107000, mo,High
+Data Engineer,Viet Nam,,220000, yr,Low
+Data Engineer,Egypt,,7000, mo,High
+Data Engineer,Sri Lanka,,7200000, yr,Low
+Data Engineer,Nigeria,,,,
+Data Engineer,Kenya,,,,
+Data Engineer,Iran,,600000, yr,High
+Data Engineer,Bangladesh,,2400000, yr,Low
+Database Administrator,Turkey,₺,8034, mo,Very High
+Database Administrator,Philippines,,43500, mo,Very High
+Database Administrator,Peru,,2000, mo,Low
+Database Administrator,Colombia,,,,
+Database Administrator,Belarus,,,,
+Database Administrator,Indonesia,,34128000, mo,Very High
+Database Administrator,Morocco,,,,
+Database Administrator,Pakistan,₨,66000, mo,High
+Database Administrator,Viet Nam,,,,
+Database Administrator,Egypt,,4850, mo,Very High
+Database Administrator,Sri Lanka,,130000, mo,Low
+Database Administrator,Nigeria,,8000000, yr,High
+Database Administrator,Kenya,,60000, mo,Low
+Database Administrator,Iran,,50000000, mo,Low
+Database Administrator,Bangladesh,,150000, mo,Low
+Database Engineer,Turkey,₺,7231, mo,Low
+Database Engineer,Philippines,,,,
+Database Engineer,Peru,,,,
+Database Engineer,Colombia,,,,
+Database Engineer,Belarus,,,,
+Database Engineer,Indonesia,,7990000, mo,Low
+Database Engineer,Morocco,,,,
+Database Engineer,Pakistan,,,,
+Database Engineer,Viet Nam,,,,
+Database Engineer,Egypt,,,,
+Database Engineer,Sri Lanka,,,,
+Database Engineer,Nigeria,,,,
+Database Engineer,Kenya,,,,
+Database Engineer,Iran,,,,
+Database Engineer,Bangladesh,,30000, mo,Low
+Statistician,Turkey,₺,5627, mo,Low
+Statistician,Philippines,,24000, mo,Low
+Statistician,Peru,,,,
+Statistician,Colombia,,,,
+Statistician,Belarus,,,,
+Statistician,Indonesia,,8083000, mo,Low
+Statistician,Morocco,,,,
+Statistician,Pakistan,₨,50000, mo,Low
+Statistician,Viet Nam,,,,
+Statistician,Egypt,,6425, mo,Low
+Statistician,Sri Lanka,,,,
+Statistician,Nigeria,,,,
+Statistician,Kenya,,75000, mo,Low
+Statistician,Iran,,,,
+Statistician,Bangladesh,,,,
+Data Analyst,Turkey,₺,6135, mo,Very High
+Data Analyst,Philippines,,250000, yr,Very High
+Data Analyst,Peru,,4000, mo,High
+Data Analyst,Colombia,,3105000, mo,High
+Data Analyst,Belarus,,,,
+Data Analyst,Indonesia,,29949000, yr,Very High
+Data Analyst,Morocco,,9250, mo,High
+Data Analyst,Pakistan,₨,1062000, yr,Very High
+Data Analyst,Viet Nam,,8500000, mo,High
+Data Analyst,Egypt,,5000, mo,Very High
+Data Analyst,Sri Lanka,,20000, yr,Low
+Data Analyst,Nigeria,,2500000, yr,Very High
+Data Analyst,Kenya,,42500, mo,Very High
+Data Analyst,Iran,,32000000, mo,High
+Data Analyst,Bangladesh,,16000, mo,Very High
+Machine Learning Engineer,Vietnam,,10000000, mo,Low
+Data Scientist,Vietnam,,20000000, mo,High
+Research Scientist,Vietnam,,,,
+Software Engineer,Vietnam,,128000, yr,Very High
+Business Analyst,Vietnam,,15850000, mo,Very High
+Product Manager,Vietnam,,34000000, mo,Very High
+Project Manager,Vietnam,,25000000, mo,Very High
+Data Engineer,Vietnam,,35000000, mo,Very High
+Database Administrator,Vietnam,,,,
+Database Engineer,Vietnam,,,,
+Statistician,Vietnam,,,,
+Data Analyst,Vietnam,,9000000, mo,Very High
