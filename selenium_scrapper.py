@@ -9,8 +9,8 @@ from soupify import write_to_csv   # created module
 
 
 CHROME_PATH = r'C:\Users\user\chromedriver.exe'
-username = 'physics0031@gmail.com'
-password = 'enthinovendi'
+username = 'Email'
+password = 'password'
 url = 'https://www.glassdoor.co.in/Salaries/index.htm'
 jobs = ['Machine Learning Engineer', 'Data Scientist', 'Research Scientist',
         'Software Engineer', 'Business Analyst', 'Product Manager',
