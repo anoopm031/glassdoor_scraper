@@ -1,0 +1,625 @@
+Job,country,Currency_x,Currency_y,CURRENCY,Avg_pay,conversion(1 USD=),Avg_pay(USD),Frequency,Confidence
+Machine Learning Engineer,Switzerland,CHF,Swiss Franc,CHF,96000.0,0.8860379999999999,108347.49751139343, yr,Very High
+Machine Learning Engineer,USA,$,US Dollar,USD,114000.0,1.0,114000.0, yr,Very High
+Machine Learning Engineer,Israel,₪,New Israeli Sheqel,ILS,29971.0,3.2571950000000003,9201.475502694802, mo,Very High
+Machine Learning Engineer,Australia,A$,Australian Dollar,AUD,110000.0,1.320835,83280.65201179557, yr,Very High
+Machine Learning Engineer,UK,£,Pound Sterling,GBP,50208.0,0.745766,67324.06679843274, yr,Very High
+Machine Learning Engineer,Canada,CA$,Canadian Dollar,CAD,87000.0,1.2724879999999998,68369.99641646916, yr,Very High
+Machine Learning Engineer,Germany,€,Euro,EUR,62000.0,0.822233,75404.41699615559, yr,Very High
+Machine Learning Engineer,Netherlands,€,Euro,EUR,69377.0,0.822233,84376.32641842398, yr,Very High
+Machine Learning Engineer,UAE,,UAE Dirham,AED,,3.6725,,,
+Machine Learning Engineer,Sweden,kr,Swedish Krona,SEK,48000.0,8.381022999999999,5727.224468898368, mo,High
+Machine Learning Engineer,Belgium,€,Euro,EUR,2767.0,0.822233,3365.2261585219762, mo,Low
+Machine Learning Engineer,Singapore,S$,Singapore Dollar,SGD,6000.0,1.332182,4503.88910824497, mo,Very High
+Machine Learning Engineer,Ireland,€,Euro,EUR,49410.0,0.822233,60092.45554483948, yr,Low
+Machine Learning Engineer,France,€,Euro,EUR,47505.0,0.822233,57775.59402261889, yr,Very High
+Machine Learning Engineer,Japan,¥,Japanese Yen,JPY,5953000.0,103.691827,57410.50352984908, yr,Very High
+Machine Learning Engineer,Spain,€,Euro,EUR,35000.0,0.822233,42567.009594603966, yr,Very High
+Machine Learning Engineer,South Africa,,South African Rand,ZAR,753316.0,14.992517999999999,50246.12943602936, yr,Low
+Machine Learning Engineer,Italy,€,Euro,EUR,36070.0,0.822233,43868.34388792471, yr,Very High
+Machine Learning Engineer,South Korea,₩,Korean Won,KRW,59565000.0,1091.5145539999999,54570.96268823549, yr,Very High
+Data Scientist,Switzerland,CHF,Swiss Franc,CHF,109000.0,0.8860379999999999,123019.5544660613, yr,Very High
+Data Scientist,USA,$,US Dollar,USD,113000.0,1.0,113000.0, yr,Very High
+Data Scientist,Israel,₪,New Israeli Sheqel,ILS,275000.0,3.2571950000000003,84428.47296523541, yr,Very High
+Data Scientist,Australia,A$,Australian Dollar,AUD,110000.0,1.320835,83280.65201179557, yr,Very High
+Data Scientist,UK,£,Pound Sterling,GBP,45000.0,0.745766,60340.6430435284, yr,Very High
+Data Scientist,Canada,CA$,Canadian Dollar,CAD,85000.0,1.2724879999999998,66798.27236091814, yr,Very High
+Data Scientist,Germany,€,Euro,EUR,60114.0,0.822233,73110.6632791435, yr,Very High
+Data Scientist,Netherlands,€,Euro,EUR,61548.0,0.822233,74854.69447224813, yr,Very High
+Data Scientist,UAE,,UAE Dirham,AED,,3.6725,,,
+Data Scientist,Sweden,kr,Swedish Krona,SEK,549000.0,8.381022999999999,65505.12986302508, yr,Very High
+Data Scientist,Belgium,€,Euro,EUR,58008.0,0.822233,70549.34550182248, yr,Very High
+Data Scientist,Singapore,S$,Singapore Dollar,SGD,74000.0,1.332182,55547.96566835463, yr,Very High
+Data Scientist,Ireland,€,Euro,EUR,48904.0,0.822233,59477.05820612892, yr,Very High
+Data Scientist,France,€,Euro,EUR,44953.0,0.822233,54671.8509230352, yr,Very High
+Data Scientist,Japan,¥,Japanese Yen,JPY,5680000.0,103.691827,54777.70200731442, yr,Very High
+Data Scientist,Spain,€,Euro,EUR,35325.0,0.822233,42962.27468369671, yr,Very High
+Data Scientist,South Africa,,South African Rand,ZAR,548842.0,14.992517999999999,36607.726600695096, yr,Very High
+Data Scientist,Italy,€,Euro,EUR,31951.0,0.822233,38858.81495877689, yr,Very High
+Data Scientist,South Korea,₩,Korean Won,KRW,52407000.0,1091.5145539999999,48013.10235209196, yr,Very High
+Research Scientist,Switzerland,CHF,Swiss Franc,CHF,105000.0,0.8860379999999999,118505.07540308656, yr,Very High
+Research Scientist,USA,$,US Dollar,USD,77173.0,1.0,77173.0, yr,Very High
+Research Scientist,Israel,₪,New Israeli Sheqel,ILS,19558.0,3.2571950000000003,6004.552997287543, mo,Very High
+Research Scientist,Australia,A$,Australian Dollar,AUD,101000.0,1.320835,76466.78048355776, yr,Very High
+Research Scientist,UK,£,Pound Sterling,GBP,34866.0,0.745766,46751.9302301258, yr,Very High
+Research Scientist,Canada,CA$,Canadian Dollar,CAD,77000.0,1.2724879999999998,60511.376138714084, yr,Very High
+Research Scientist,Germany,€,Euro,EUR,58068.0,0.822233,70622.31751827037, yr,Very High
+Research Scientist,Netherlands,€,Euro,EUR,59574.0,0.822233,72453.91513111247, yr,Very High
+Research Scientist,UAE,,UAE Dirham,AED,,3.6725,,,
+Research Scientist,Sweden,kr,Swedish Krona,SEK,38000.0,8.381022999999999,4534.0527045445415, mo,Very High
+Research Scientist,Belgium,€,Euro,EUR,60036.0,0.822233,73015.79965776125, yr,Very High
+Research Scientist,Singapore,S$,Singapore Dollar,SGD,80000.0,1.332182,60051.8547765996, yr,Very High
+Research Scientist,Ireland,€,Euro,EUR,49508.0,0.822233,60211.643171704374, yr,Very High
+Research Scientist,France,€,Euro,EUR,52053.0,0.822233,63306.872869369145, yr,Very High
+Research Scientist,Japan,¥,Japanese Yen,JPY,6069000.0,103.691827,58529.20307788578, yr,Very High
+Research Scientist,Spain,€,Euro,EUR,37896.0,0.822233,46089.12558848891, yr,Very High
+Research Scientist,South Africa,,South African Rand,ZAR,464805.0,14.992517999999999,31002.464029057697, yr,High
+Research Scientist,Italy,€,Euro,EUR,35860.0,0.822233,43612.941830357086, yr,Very High
+Research Scientist,South Korea,₩,Korean Won,KRW,54705000.0,1091.5145539999999,50118.43387660409, yr,Very High
+Software Engineer,Switzerland,CHF,Swiss Franc,CHF,99000.0,0.8860379999999999,111733.35680862448, yr,Very High
+Software Engineer,USA,$,US Dollar,USD,92046.0,1.0,92046.0, yr,Very High
+Software Engineer,Israel,₪,New Israeli Sheqel,ILS,250000.0,3.2571950000000003,76753.1572411231, yr,Very High
+Software Engineer,Australia,A$,Australian Dollar,AUD,98000.0,1.320835,74195.48997414514, yr,Very High
+Software Engineer,UK,£,Pound Sterling,GBP,45000.0,0.745766,60340.6430435284, yr,Very High
+Software Engineer,Canada,CA$,Canadian Dollar,CAD,83000.0,1.2724879999999998,65226.548305367134, yr,Very High
+Software Engineer,Germany,€,Euro,EUR,60000.0,0.822233,72972.01644789251, yr,Very High
+Software Engineer,Netherlands,€,Euro,EUR,60762.0,0.822233,73898.76105678074, yr,Very High
+Software Engineer,UAE,,UAE Dirham,AED,,3.6725,,,
+Software Engineer,Sweden,kr,Swedish Krona,SEK,461000.0,8.381022999999999,55005.218336711405, yr,Very High
+Software Engineer,Belgium,€,Euro,EUR,46460.0,0.822233,56504.66473615143, yr,Very High
+Software Engineer,Singapore,S$,Singapore Dollar,SGD,68000.0,1.332182,51044.07656010966, yr,Very High
+Software Engineer,Ireland,€,Euro,EUR,49216.0,0.822233,59856.51269165796, yr,Very High
+Software Engineer,France,€,Euro,EUR,43000.0,0.822233,52296.6117876563, yr,Very High
+Software Engineer,Japan,¥,Japanese Yen,JPY,5988000.0,103.691827,57748.04218658429, yr,Very High
+Software Engineer,Spain,€,Euro,EUR,36156.0,0.822233,43972.937111500025, yr,Very High
+Software Engineer,South Africa,,South African Rand,ZAR,501123.0,14.992517999999999,33424.87232631637, yr,Very High
+Software Engineer,Italy,€,Euro,EUR,31985.0,0.822233,38900.165768097366, yr,Very High
+Software Engineer,South Korea,₩,Korean Won,KRW,50928000.0,1091.5145539999999,46658.10438657697, yr,Very High
+Business Analyst,Switzerland,CHF,Swiss Franc,CHF,103000.0,0.8860379999999999,116247.8358715992, yr,Very High
+Business Analyst,USA,$,US Dollar,USD,68346.0,1.0,68346.0, yr,Very High
+Business Analyst,Israel,₪,New Israeli Sheqel,ILS,15075.0,3.2571950000000003,4628.215381639723, mo,Very High
+Business Analyst,Australia,A$,Australian Dollar,AUD,90000.0,1.320835,68138.7152823782, yr,Very High
+Business Analyst,UK,£,Pound Sterling,GBP,40000.0,0.745766,53636.12714980302, yr,Very High
+Business Analyst,Canada,CA$,Canadian Dollar,CAD,65000.0,1.2724879999999998,51081.031805408, yr,Very High
+Business Analyst,Germany,€,Euro,EUR,53176.0,0.822233,64672.66577721887, yr,Very High
+Business Analyst,Netherlands,€,Euro,EUR,53264.0,0.822233,64779.69140134244, yr,Very High
+Business Analyst,UAE,,UAE Dirham,AED,,3.6725,,,
+Business Analyst,Sweden,kr,Swedish Krona,SEK,400000.0,8.381022999999999,47726.870574153065, yr,Very High
+Business Analyst,Belgium,€,Euro,EUR,47286.0,0.822233,57509.24616258409, yr,Very High
+Business Analyst,Singapore,S$,Singapore Dollar,SGD,71000.0,1.332182,53296.02111423214, yr,Very High
+Business Analyst,Ireland,€,Euro,EUR,41998.0,0.822233,51077.97911297649, yr,Very High
+Business Analyst,France,€,Euro,EUR,40616.0,0.822233,49397.1903341267, yr,Very High
+Business Analyst,Japan,¥,Japanese Yen,JPY,5750000.0,103.691827,55452.779320784844, yr,Very High
+Business Analyst,Spain,€,Euro,EUR,28147.0,0.822233,34232.389115980506, yr,Very High
+Business Analyst,South Africa,,South African Rand,ZAR,565608.0,14.992517999999999,37726.01773764754, yr,Very High
+Business Analyst,Italy,€,Euro,EUR,25550.0,0.822233,31073.91700406089, yr,Very High
+Business Analyst,South Korea,₩,Korean Won,KRW,53258000.0,1091.5145539999999,48792.7529732233, yr,Very High
+Product Manager,Switzerland,CHF,Swiss Franc,CHF,109000.0,0.8860379999999999,123019.5544660613, yr,Very High
+Product Manager,USA,$,US Dollar,USD,109000.0,1.0,109000.0, yr,Very High
+Product Manager,Israel,₪,New Israeli Sheqel,ILS,193000.0,3.2571950000000003,59253.43739014704, yr,Very High
+Product Manager,Australia,A$,Australian Dollar,AUD,112000.0,1.320835,84794.8456847373, yr,Very High
+Product Manager,UK,£,Pound Sterling,GBP,50000.0,0.745766,67045.15893725377, yr,Very High
+Product Manager,Canada,CA$,Canadian Dollar,CAD,86000.0,1.2724879999999998,67584.13438869365, yr,Very High
+Product Manager,Germany,€,Euro,EUR,62279.0,0.822233,75743.73687263828, yr,Very High
+Product Manager,Netherlands,€,Euro,EUR,70383.0,0.822233,85599.82389420031, yr,Very High
+Product Manager,UAE,,UAE Dirham,AED,,3.6725,,,
+Product Manager,Sweden,kr,Swedish Krona,SEK,612000.0,8.381022999999999,73022.1119784542, yr,Very High
+Product Manager,Belgium,€,Euro,EUR,69516.0,0.822233,84545.37825652826, yr,Very High
+Product Manager,Singapore,S$,Singapore Dollar,SGD,85000.0,1.332182,63805.09570013707, yr,Very High
+Product Manager,Ireland,€,Euro,EUR,64938.0,0.822233,78977.61340155406, yr,Very High
+Product Manager,France,€,Euro,EUR,49995.0,0.822233,60803.93270520643, yr,Very High
+Product Manager,Japan,¥,Japanese Yen,JPY,6979000.0,103.691827,67305.2081530013, yr,Very High
+Product Manager,Spain,€,Euro,EUR,47317.0,0.822233,57546.948371082166, yr,Very High
+Product Manager,South Africa,,South African Rand,ZAR,712038.0,14.992517999999999,47492.88945325929, yr,Very High
+Product Manager,Italy,€,Euro,EUR,42625.0,0.822233,51840.53668485697, yr,Very High
+Product Manager,South Korea,₩,Korean Won,KRW,52100000.0,1091.5145539999999,47731.841787241996, yr,Very High
+Project Manager,Switzerland,CHF,Swiss Franc,CHF,109000.0,0.8860379999999999,123019.5544660613, yr,Very High
+Project Manager,USA,$,US Dollar,USD,66137.0,1.0,66137.0, yr,Very High
+Project Manager,Israel,₪,New Israeli Sheqel,ILS,197000.0,3.2571950000000003,60481.48790600501, yr,Very High
+Project Manager,Australia,A$,Australian Dollar,AUD,110000.0,1.320835,83280.65201179557, yr,Very High
+Project Manager,UK,£,Pound Sterling,GBP,45000.0,0.745766,60340.6430435284, yr,Very High
+Project Manager,Canada,CA$,Canadian Dollar,CAD,85000.0,1.2724879999999998,66798.27236091814, yr,Very High
+Project Manager,Germany,€,Euro,EUR,62029.0,0.822233,75439.68680410541, yr,Very High
+Project Manager,Netherlands,€,Euro,EUR,63686.0,0.822233,77454.93065834137, yr,Very High
+Project Manager,UAE,,UAE Dirham,AED,,3.6725,,,
+Project Manager,Sweden,kr,Swedish Krona,SEK,506000.0,8.381022999999999,60374.49127630363, yr,Very High
+Project Manager,Belgium,€,Euro,EUR,65667.0,0.822233,79864.22340139595, yr,Very High
+Project Manager,Singapore,S$,Singapore Dollar,SGD,94000.0,1.332182,70560.92936250452, yr,Very High
+Project Manager,Ireland,€,Euro,EUR,56874.0,0.822233,69170.17439095731, yr,Very High
+Project Manager,France,€,Euro,EUR,49947.0,0.822233,60745.55509204812, yr,Very High
+Project Manager,Japan,¥,Japanese Yen,JPY,7432000.0,103.691827,71673.92276731704, yr,Very High
+Project Manager,Spain,€,Euro,EUR,36360.0,0.822233,44221.04196742286, yr,Very High
+Project Manager,South Africa,,South African Rand,ZAR,804636.0,14.992517999999999,53669.17018208683, yr,Very High
+Project Manager,Italy,€,Euro,EUR,42459.0,0.822233,51638.64743935113, yr,Very High
+Project Manager,South Korea,₩,Korean Won,KRW,56200000.0,1091.5145539999999,51488.09037318618, yr,Very High
+Data Engineer,Switzerland,CHF,Swiss Franc,CHF,100000.0,0.8860379999999999,112861.97657436816, yr,Very High
+Data Engineer,USA,$,US Dollar,USD,103000.0,1.0,103000.0, yr,Very High
+Data Engineer,Israel,₪,New Israeli Sheqel,ILS,26013.0,3.2571950000000003,7986.3195172533415, mo,Very High
+Data Engineer,Australia,A$,Australian Dollar,AUD,100000.0,1.320835,75709.68364708689, yr,Very High
+Data Engineer,UK,£,Pound Sterling,GBP,44765.0,0.745766,60025.5307965233, yr,Very High
+Data Engineer,Canada,CA$,Canadian Dollar,CAD,85000.0,1.2724879999999998,66798.27236091814, yr,Very High
+Data Engineer,Germany,€,Euro,EUR,60170.0,0.822233,73178.77049449486, yr,Very High
+Data Engineer,Netherlands,€,Euro,EUR,51909.0,0.822233,63131.7400298942, yr,Very High
+Data Engineer,UAE,,UAE Dirham,AED,,3.6725,,,
+Data Engineer,Sweden,kr,Swedish Krona,SEK,44000.0,8.381022999999999,5249.955763156837, mo,Very High
+Data Engineer,Belgium,€,Euro,EUR,3209.0,0.822233,3902.7866796881176, mo,High
+Data Engineer,Singapore,S$,Singapore Dollar,SGD,82000.0,1.332182,61553.151146014585, yr,Very High
+Data Engineer,Ireland,€,Euro,EUR,57510.0,0.822233,69943.67776530496, yr,Very High
+Data Engineer,France,€,Euro,EUR,43601.0,0.822233,53027.548152409356, yr,Very High
+Data Engineer,Japan,¥,Japanese Yen,JPY,5498000.0,103.691827,53022.500992291316, yr,Very High
+Data Engineer,Spain,€,Euro,EUR,34406.0,0.822233,41844.586631769824, yr,Very High
+Data Engineer,South Africa,,South African Rand,ZAR,500000.0,14.992517999999999,33349.968297520136, yr,Low
+Data Engineer,Italy,€,Euro,EUR,30604.0,0.822233,37220.59318952171, yr,Very High
+Data Engineer,South Korea,₩,Korean Won,KRW,53218000.0,1091.5145539999999,48756.106645555556, yr,Low
+Statistician,Switzerland,CHF,Swiss Franc,CHF,124000.0,0.8860379999999999,139948.8509522165, yr,High
+Statistician,USA,$,US Dollar,USD,76884.0,1.0,76884.0, yr,Very High
+Statistician,Israel,₪,New Israeli Sheqel,ILS,16161.0,3.2571950000000003,4961.631096695162, mo,Low
+Statistician,Australia,A$,Australian Dollar,AUD,91000.0,1.320835,68895.81211884906, yr,High
+Statistician,UK,£,Pound Sterling,GBP,40184.0,0.745766,53882.85333469211, yr,Very High
+Statistician,Canada,CA$,Canadian Dollar,CAD,67000.0,1.2724879999999998,52652.75586095901, yr,Very High
+Statistician,Germany,€,Euro,EUR,87100.0,0.822233,105931.0438768573, yr,Low
+Statistician,Netherlands,€,Euro,EUR,58019.0,0.822233,70562.72370483792, yr,Low
+Statistician,UAE,,UAE Dirham,AED,,3.6725,,,
+Statistician,Sweden,kr,Swedish Krona,SEK,33000.0,8.381022999999999,3937.466822367628, mo,Very High
+Statistician,Belgium,€,Euro,EUR,52111.0,0.822233,63377.412485268775, yr,Low
+Statistician,Singapore,S$,Singapore Dollar,SGD,4000.0,1.332182,3002.5927388299797, mo,High
+Statistician,Ireland,€,Euro,EUR,50885.0,0.822233,61886.35094918351, yr,High
+Statistician,France,€,Euro,EUR,31068.0,0.822233,37784.91011671874, yr,Very High
+Statistician,Japan,¥,Japanese Yen,JPY,305000.0,103.691827,2941.408294406848, mo,Low
+Statistician,Spain,,Euro,EUR,,0.822233,,,
+Statistician,South Africa,,South African Rand,ZAR,,14.992517999999999,,,
+Statistician,Italy,€,Euro,EUR,42754.0,0.822233,51997.42652021994, yr,Low
+Statistician,South Korea,,Korean Won,KRW,,1091.5145539999999,,,
+Data Analyst,Switzerland,CHF,Swiss Franc,CHF,96000.0,0.8860379999999999,108347.49751139343, yr,Very High
+Data Analyst,USA,$,US Dollar,USD,62453.0,1.0,62453.0, yr,Very High
+Data Analyst,Israel,₪,New Israeli Sheqel,ILS,90300.0,3.2571950000000003,27723.240395493667, yr,Very High
+Data Analyst,Australia,A$,Australian Dollar,AUD,83000.0,1.320835,62839.03742708211, yr,Very High
+Data Analyst,UK,£,Pound Sterling,GBP,30241.0,0.745766,40550.25302842983, yr,Very High
+Data Analyst,Canada,CA$,Canadian Dollar,CAD,60000.0,1.2724879999999998,47151.72166653046, yr,Very High
+Data Analyst,Germany,€,Euro,EUR,52550.0,0.822233,63911.32440561252, yr,Very High
+Data Analyst,Netherlands,€,Euro,EUR,48131.0,0.822233,58536.93539422524, yr,Very High
+Data Analyst,UAE,,UAE Dirham,AED,,3.6725,,,
+Data Analyst,Sweden,kr,Swedish Krona,SEK,35000.0,8.381022999999999,4176.101175238393, mo,Very High
+Data Analyst,Belgium,€,Euro,EUR,48000.0,0.822233,58377.61315831401, yr,Very High
+Data Analyst,Singapore,S$,Singapore Dollar,SGD,55000.0,1.332182,41285.65015891222, yr,Very High
+Data Analyst,Ireland,€,Euro,EUR,33765.0,0.822233,41065.002256051506, yr,Very High
+Data Analyst,France,€,Euro,EUR,41156.0,0.822233,50053.93848215773, yr,Very High
+Data Analyst,Japan,¥,Japanese Yen,JPY,5730000.0,103.691827,55259.900088364724, yr,Very High
+Data Analyst,Spain,€,Euro,EUR,28174.0,0.822233,34265.22652338206, yr,Very High
+Data Analyst,South Africa,,South African Rand,ZAR,409437.0,14.992517999999999,27309.421939663505, yr,Very High
+Data Analyst,Italy,€,Euro,EUR,29884.0,0.822233,36344.928992147, yr,Very High
+Data Analyst,South Korea,₩,Korean Won,KRW,46660000.0,1091.5145539999999,42747.94122442824, yr,Low
+Database Administrator,Switzerland,CHF,Swiss Franc,CHF,64000.0,0.8860379999999999,72231.66500759563, yr,Low
+Database Administrator,USA,$,US Dollar,USD,78779.0,1.0,78779.0, yr,Very High
+Database Administrator,Israel,,New Israeli Sheqel,ILS,,3.2571950000000003,,,
+Database Administrator,Australia,A$,Australian Dollar,AUD,88000.0,1.320835,66624.52160943646, yr,Very High
+Database Administrator,UK,£,Pound Sterling,GBP,35096.0,0.745766,47060.33796123717, yr,Very High
+Database Administrator,Canada,CA$,Canadian Dollar,CAD,81000.0,1.2724879999999998,63654.82424981612, yr,Very High
+Database Administrator,Germany,€,Euro,EUR,51506.0,0.822233,62641.61131941919, yr,Very High
+Database Administrator,Netherlands,€,Euro,EUR,2399.0,0.822233,2917.664457641569, mo,High
+Database Administrator,UAE,,UAE Dirham,AED,,3.6725,,,
+Database Administrator,Sweden,kr,Swedish Krona,SEK,619000.0,8.381022999999999,73857.33221350187, yr,Low
+Database Administrator,Belgium,€,Euro,EUR,12247.0,0.822233,14894.804757288992, yr,Low
+Database Administrator,Singapore,S$,Singapore Dollar,SGD,4800.0,1.332182,3603.111286595976, mo,Very High
+Database Administrator,Ireland,€,Euro,EUR,42609.0,0.822233,51821.07748047086, yr,Very High
+Database Administrator,France,€,Euro,EUR,45788.0,0.822233,55687.37815193504, yr,High
+Database Administrator,Japan,¥,Japanese Yen,JPY,9974000.0,103.691827,96188.87320791444, yr,Low
+Database Administrator,Spain,€,Euro,EUR,38857.0,0.822233,47257.89405192932, yr,High
+Database Administrator,South Africa,,South African Rand,ZAR,18473.0,14.992517999999999,1232.1479287201792, mo,Very High
+Database Administrator,Italy,€,Euro,EUR,41042.0,0.822233,49915.291650906736, yr,Very High
+Database Administrator,South Korea,₩,Korean Won,KRW,54815000.0,1091.5145539999999,50219.2112776904, yr,Low
+Database Engineer,Switzerland,CHF,Swiss Franc,CHF,168000.0,0.8860379999999999,189608.1206449385, yr,Low
+Database Engineer,USA,$,US Dollar,USD,142000.0,1.0,142000.0, yr,Very High
+Database Engineer,Israel,,New Israeli Sheqel,ILS,,3.2571950000000003,,,
+Database Engineer,Australia,,Australian Dollar,AUD,,1.320835,,,
+Database Engineer,UK,£,Pound Sterling,GBP,43325.0,0.745766,58094.63021913039, yr,Very High
+Database Engineer,Canada,,Canadian Dollar,CAD,,1.2724879999999998,,,
+Database Engineer,Germany,€,Euro,EUR,63903.0,0.822233,77718.84611782791, yr,High
+Database Engineer,Netherlands,€,Euro,EUR,5806.0,0.822233,7061.258791607732, mo,Low
+Database Engineer,UAE,,UAE Dirham,AED,,3.6725,,,
+Database Engineer,Sweden,kr,Swedish Krona,SEK,651000.0,8.381022999999999,77675.48185943412, yr,Low
+Database Engineer,Belgium,,Euro,EUR,,0.822233,,,
+Database Engineer,Singapore,S$,Singapore Dollar,SGD,207000.0,1.332182,155384.17423445146, yr,Low
+Database Engineer,Ireland,€,Euro,EUR,68070.0,0.822233,82786.75266013405, yr,Low
+Database Engineer,France,,Euro,EUR,,0.822233,,,
+Database Engineer,Japan,¥,Japanese Yen,JPY,315000.0,103.691827,3037.847910616909, mo,Low
+Database Engineer,Spain,,Euro,EUR,,0.822233,,,
+Database Engineer,South Africa,,South African Rand,ZAR,,14.992517999999999,,,
+Database Engineer,Italy,,Euro,EUR,,0.822233,,,
+Database Engineer,South Korea,₩,Korean Won,KRW,45070000.0,1091.5145539999999,41291.24969963525, yr,Low
+Machine Learning Engineer,Republic of Korea,,,,,1108.76,,,
+Machine Learning Engineer,China,¥,Yuan Renminbi,CNY,300000.0,6.543989,45843.59784223354, yr,High
+Machine Learning Engineer,Saudi Arabia,,Saudi Riyal,SAR,,3.75,,,
+Machine Learning Engineer,Poland,,Polish zloty,PLN,150112.0,3.6484949999999996,41143.54000759218, yr,Low
+Machine Learning Engineer,Portugal,€,Euro,EUR,29431.0,0.822233,35793.990267965404, yr,Low
+Machine Learning Engineer,Mexico,MXN$,Mexican Peso,MXN,17000.0,20.042181,848.2110804208385, mo,High
+Machine Learning Engineer,Thailand,฿,Thai Baht,THB,42000.0,30.079757,1396.2878755968673, mo,Low
+Machine Learning Engineer,Romania,,Romanian Leu,RON,4500.0,4.004851,1123.6373088536875, mo,High
+Machine Learning Engineer,Taiwan,,,,1260000.0,28.18,44712.5621007807, yr,Very High
+Machine Learning Engineer,Chile,,Chilean Peso,CLP,1442000.0,733.55,1965.782836889101, mo,Low
+Machine Learning Engineer,Greece,€,Euro,EUR,1300.0,0.822233,1581.0603563710044, mo,High
+Machine Learning Engineer,Brazil,R$,Brazilian Real,BRL,6846.0,5.0351093570136,1359.6526936329476, mo,Very High
+Machine Learning Engineer,Malaysia,,Malaysian Ringgit,MYR,7400.0,4.053527,1825.5706696908644, mo,Low
+Machine Learning Engineer,Russia,₽,Russian Rouble,RUB,150000.0,73.005098,2054.651032726509, mo,Very High
+Machine Learning Engineer,India,₹,Indian Rupee,INR,761000.0,73.54916999999999,10346.819685388702, yr,Very High
+Machine Learning Engineer,Ukraine,,Ukrainian Hryvnia,UAH,,27.9666,,,
+Machine Learning Engineer,Argentina,ARS$,Argentine Peso,ARS,114000.0,82.425012333498,1383.075316249237, mo,Low
+Machine Learning Engineer,Tunisia,,Tunisian Dinar,TND,1850.0,,, mo,Low
+Data Scientist,Republic of Korea,,,,,1108.76,,,
+Data Scientist,China,¥,Yuan Renminbi,CNY,312000.0,6.543989,47677.34175592288, yr,Very High
+Data Scientist,Saudi Arabia,,Saudi Riyal,SAR,180242.0,3.75,48064.53333333333, yr,Low
+Data Scientist,Poland,,Polish zloty,PLN,100149.0,3.6484949999999996,27449.40036919333, yr,Very High
+Data Scientist,Portugal,€,Euro,EUR,27817.0,0.822233,33831.0430255171, yr,Very High
+Data Scientist,Mexico,MXN$,Mexican Peso,MXN,34000.0,20.042181,1696.422160841677, mo,Very High
+Data Scientist,Thailand,฿,Thai Baht,THB,50000.0,30.079757,1662.2474709486517, mo,Very High
+Data Scientist,Romania,,Romanian Leu,RON,4500.0,4.004851,1123.6373088536875, mo,High
+Data Scientist,Taiwan,,,,1275000.0,28.18,45244.85450674237, yr,High
+Data Scientist,Chile,,Chilean Peso,CLP,1724000.0,733.55,2350.214709290437, mo,Very High
+Data Scientist,Greece,€,Euro,EUR,1312.0,0.822233,1595.6547596605828, mo,Very High
+Data Scientist,Brazil,R$,Brazilian Real,BRL,94000.0,5.0351093570136,18668.909319529223, yr,Very High
+Data Scientist,Malaysia,,Malaysian Ringgit,MYR,6000.0,4.053527,1480.1924348844846, mo,Very High
+Data Scientist,Russia,₽,Russian Rouble,RUB,141000.0,73.005098,1931.3719707629184, mo,Very High
+Data Scientist,India,₹,Indian Rupee,INR,1000000.0,73.54916999999999,13596.346498539686, yr,Very High
+Data Scientist,Ukraine,,Ukrainian Hryvnia,UAH,87600.0,27.9666,3132.307824333312, mo,Low
+Data Scientist,Argentina,ARS$,Argentine Peso,ARS,117000.0,82.425012333498,1419.472035097901, mo,Very High
+Data Scientist,Tunisia,,Tunisian Dinar,TND,1650.0,,, mo,High
+Research Scientist,Republic of Korea,,,,,1108.76,,,
+Research Scientist,China,¥,Yuan Renminbi,CNY,227000.0,6.543989,34688.32236729004, yr,Very High
+Research Scientist,Saudi Arabia,,Saudi Riyal,SAR,320000.0,3.75,85333.33333333333, yr,High
+Research Scientist,Poland,,Polish zloty,PLN,4333.0,3.6484949999999996,1187.6129746648962, mo,Low
+Research Scientist,Portugal,€,Euro,EUR,1679.0,0.822233,2042.0002602668587, mo,High
+Research Scientist,Mexico,MXN$,Mexican Peso,MXN,30000.0,20.042181,1496.8430830955972, mo,Low
+Research Scientist,Thailand,,Thai Baht,THB,,30.079757,,,
+Research Scientist,Romania,,Romanian Leu,RON,,4.004851,,,
+Research Scientist,Taiwan,,,,1284000.0,28.18,45564.22995031938, yr,Low
+Research Scientist,Chile,,Chilean Peso,CLP,765088.0,733.55,1042.9936609638062, mo,Low
+Research Scientist,Greece,€,Euro,EUR,1184.0,0.822233,1439.9811245717456, mo,High
+Research Scientist,Brazil,R$,Brazilian Real,BRL,9149.0,5.0351093570136,1817.0409719614136, mo,Very High
+Research Scientist,Malaysia,,Malaysian Ringgit,MYR,42000.0,4.053527,10361.347044191392, yr,Low
+Research Scientist,Russia,₽,Russian Rouble,RUB,42141.0,73.005098,577.2336611341855, mo,Very High
+Research Scientist,India,₹,Indian Rupee,INR,986000.0,73.54916999999999,13405.99764756013, yr,Very High
+Research Scientist,Ukraine,,Ukrainian Hryvnia,UAH,15750.0,27.9666,563.1717834845851, mo,Low
+Research Scientist,Argentina,ARS$,Argentine Peso,ARS,72000.0,82.425012333498,873.521252367939, mo,High
+Research Scientist,Tunisia,,Tunisian Dinar,TND,,,,,
+Software Engineer,Republic of Korea,,,,,1108.76,,,
+Software Engineer,China,¥,Yuan Renminbi,CNY,256000.0,6.543989,39119.870158705955, yr,Very High
+Software Engineer,Saudi Arabia,,Saudi Riyal,SAR,111669.0,3.75,29778.4, yr,Very High
+Software Engineer,Poland,,Polish zloty,PLN,114005.0,3.6484949999999996,31247.130666206205, yr,Very High
+Software Engineer,Portugal,€,Euro,EUR,27123.0,0.822233,32987.00003526981, yr,Very High
+Software Engineer,Mexico,MXN$,Mexican Peso,MXN,398000.0,20.042181,19858.118235734924, yr,Very High
+Software Engineer,Thailand,฿,Thai Baht,THB,410000.0,30.079757,13630.429261778943, yr,Very High
+Software Engineer,Romania,,Romanian Leu,RON,97000.0,4.004851,24220.6264352906, yr,Very High
+Software Engineer,Taiwan,,,,905000.0,28.18,32114.97515968772, yr,Very High
+Software Engineer,Chile,,Chilean Peso,CLP,1600000.0,733.55,2181.1737441210553, mo,Very High
+Software Engineer,Greece,€,Euro,EUR,22942.0,0.822233,27902.066689125833, yr,Very High
+Software Engineer,Brazil,R$,Brazilian Real,BRL,103000.0,5.0351093570136,20456.358084165, yr,Very High
+Software Engineer,Malaysia,,Malaysian Ringgit,MYR,48000.0,4.053527,11841.539479075876, yr,Very High
+Software Engineer,Russia,₽,Russian Rouble,RUB,1399000.0,73.005098,19163.045298562574, yr,Very High
+Software Engineer,India,₹,Indian Rupee,INR,600000.0,73.54916999999999,8157.807899123812, yr,Very High
+Software Engineer,Ukraine,,Ukrainian Hryvnia,UAH,460000.0,27.9666,16448.19177161328, yr,Very High
+Software Engineer,Argentina,ARS$,Argentine Peso,ARS,1366000.0,82.425012333498,16572.6393157584, yr,Very High
+Software Engineer,Tunisia,,Tunisian Dinar,TND,19400.0,,, yr,Very High
+Business Analyst,Republic of Korea,,,,,1108.76,,,
+Business Analyst,China,¥,Yuan Renminbi,CNY,204000.0,6.543989,31173.646532718805, yr,Very High
+Business Analyst,Saudi Arabia,,Saudi Riyal,SAR,13024.0,3.75,3473.0666666666666, mo,Very High
+Business Analyst,Poland,,Polish zloty,PLN,86073.0,3.6484949999999996,23591.37123663319, yr,Very High
+Business Analyst,Portugal,€,Euro,EUR,27014.0,0.822233,32854.43420538947, yr,Very High
+Business Analyst,Mexico,MXN$,Mexican Peso,MXN,485000.0,20.042181,24198.963176712157, yr,Very High
+Business Analyst,Thailand,฿,Thai Baht,THB,35000.0,30.079757,1163.573229664056, mo,Very High
+Business Analyst,Romania,,Romanian Leu,RON,4300.0,4.004851,1073.6978729046348, mo,Very High
+Business Analyst,Taiwan,,,,675000.0,28.18,23953.158268275372, yr,Very High
+Business Analyst,Chile,,Chilean Peso,CLP,1095000.0,733.55,1492.7407811328471, mo,Very High
+Business Analyst,Greece,€,Euro,EUR,18279.0,0.822233,22230.924810850454, yr,Very High
+Business Analyst,Brazil,R$,Brazilian Real,BRL,101000.0,5.0351093570136,20059.147247579273, yr,Very High
+Business Analyst,Malaysia,,Malaysian Ringgit,MYR,54600.0,4.053527,13469.751157448809, yr,Very High
+Business Analyst,Russia,₽,Russian Rouble,RUB,1050000.0,73.005098,14382.557229085563, yr,Very High
+Business Analyst,India,₹,Indian Rupee,INR,665000.0,73.54916999999999,9041.570421528892, yr,Very High
+Business Analyst,Ukraine,,Ukrainian Hryvnia,UAH,11500.0,27.9666,411.204794290332, mo,Very High
+Business Analyst,Argentina,ARS$,Argentine Peso,ARS,165000.0,82.425012333498,2001.8195366765272, yr,Very High
+Business Analyst,Tunisia,,Tunisian Dinar,TND,45000.0,,, yr,Low
+Product Manager,Republic of Korea,,,,,1108.76,,,
+Product Manager,China,¥,Yuan Renminbi,CNY,276000.0,6.543989,42176.11001485486, yr,Very High
+Product Manager,Saudi Arabia,,Saudi Riyal,SAR,19690.0,3.75,5250.666666666667, mo,Very High
+Product Manager,Poland,,Polish zloty,PLN,125525.0,3.6484949999999996,34404.596963953634, yr,Very High
+Product Manager,Portugal,€,Euro,EUR,36850.0,0.822233,44816.980101747315, yr,Very High
+Product Manager,Mexico,MXN$,Mexican Peso,MXN,409000.0,20.042181,20406.96069953664, yr,Very High
+Product Manager,Thailand,฿,Thai Baht,THB,70000.0,30.079757,2327.146459328112, mo,Very High
+Product Manager,Romania,,Romanian Leu,RON,71000.0,4.004851,17728.499761913736, yr,Very High
+Product Manager,Taiwan,,,,900000.0,28.18,31937.544357700495, yr,Very High
+Product Manager,Chile,,Chilean Peso,CLP,2473000.0,733.55,3371.276668257106, mo,Very High
+Product Manager,Greece,€,Euro,EUR,32496.0,0.822233,39521.64410817858, yr,Very High
+Product Manager,Brazil,R$,Brazilian Real,BRL,180000.0,5.0351093570136,35748.975292715535, yr,Very High
+Product Manager,Malaysia,,Malaysian Ringgit,MYR,78500.0,4.053527,19365.851023072006, yr,Very High
+Product Manager,Russia,₽,Russian Rouble,RUB,2017000.0,73.005098,27628.20755339579, yr,Very High
+Product Manager,India,₹,Indian Rupee,INR,1500000.0,73.54916999999999,20394.51974780953, yr,Very High
+Product Manager,Ukraine,,Ukrainian Hryvnia,UAH,22500.0,27.9666,804.5311192636931, mo,Very High
+Product Manager,Argentina,ARS$,Argentine Peso,ARS,2005000.0,82.425012333498,24325.140430523858, yr,Very High
+Product Manager,Tunisia,,Tunisian Dinar,TND,50843.0,,, yr,Low
+Project Manager,Republic of Korea,,,,,1108.76,,,
+Project Manager,China,¥,Yuan Renminbi,CNY,242000.0,6.543989,36980.50225940172, yr,Very High
+Project Manager,Saudi Arabia,,Saudi Riyal,SAR,166724.0,3.75,44459.73333333333, yr,Very High
+Project Manager,Poland,,Polish zloty,PLN,120089.0,3.6484949999999996,32914.667554704065, yr,Very High
+Project Manager,Portugal,€,Euro,EUR,33237.0,0.822233,40422.848511310054, yr,Very High
+Project Manager,Mexico,MXN$,Mexican Peso,MXN,584000.0,20.042181,29138.545350927627, yr,Very High
+Project Manager,Thailand,฿,Thai Baht,THB,70000.0,30.079757,2327.146459328112, mo,Very High
+Project Manager,Romania,,Romanian Leu,RON,54000.0,4.004851,13483.647706244252, yr,Very High
+Project Manager,Taiwan,,,,1000000.0,28.18,35486.160397445, yr,Very High
+Project Manager,Chile,,Chilean Peso,CLP,2585000.0,733.55,3523.95883034558, mo,Very High
+Project Manager,Greece,€,Euro,EUR,29432.0,0.822233,35795.206468239536, yr,Very High
+Project Manager,Brazil,R$,Brazilian Real,BRL,168000.0,5.0351093570136,33365.71027320116, yr,Very High
+Project Manager,Malaysia,,Malaysian Ringgit,MYR,101000.0,4.053527,24916.572653888823, yr,Very High
+Project Manager,Russia,₽,Russian Rouble,RUB,1892000.0,73.005098,25915.998359457033, yr,Very High
+Project Manager,India,₹,Indian Rupee,INR,1250000.0,73.54916999999999,16995.433123174607, yr,Very High
+Project Manager,Ukraine,,Ukrainian Hryvnia,UAH,30000.0,27.9666,1072.7081590182574, mo,Very High
+Project Manager,Argentina,ARS$,Argentine Peso,ARS,1320000.0,82.425012333498,16014.556293412217, yr,Very High
+Project Manager,Tunisia,,Tunisian Dinar,TND,2250.0,,, mo,Very High
+Data Engineer,Republic of Korea,,,,,1108.76,,,
+Data Engineer,China,¥,Yuan Renminbi,CNY,18666.0,6.543989,2852.3886577437706, mo,Very High
+Data Engineer,Saudi Arabia,,Saudi Riyal,SAR,,3.75,,,
+Data Engineer,Poland,,Polish zloty,PLN,10069.0,3.6484949999999996,2759.7680687516363, mo,Very High
+Data Engineer,Portugal,€,Euro,EUR,27246.0,0.822233,33136.592668987985, yr,Very High
+Data Engineer,Mexico,MXN$,Mexican Peso,MXN,31000.0,20.042181,1546.7378525321171, mo,Very High
+Data Engineer,Thailand,฿,Thai Baht,THB,65000.0,30.079757,2160.921712233247, mo,High
+Data Engineer,Romania,,Romanian Leu,RON,24000.0,4.004851,5992.732313886334, yr,Low
+Data Engineer,Taiwan,,,,57000.0,28.18,2022.7111426543647, mo,High
+Data Engineer,Chile,,Chilean Peso,CLP,17640000.0,733.55,24047.440528934636, yr,Low
+Data Engineer,Greece,€,Euro,EUR,29081.0,0.822233,35368.32017201937, yr,Low
+Data Engineer,Brazil,R$,Brazilian Real,BRL,8100.0,5.0351093570136,1608.703888172199, mo,Very High
+Data Engineer,Malaysia,,Malaysian Ringgit,MYR,3995.0,4.053527,985.5614628939193, mo,Very High
+Data Engineer,Russia,₽,Russian Rouble,RUB,600000.0,73.005098,8218.604130906037, yr,Very High
+Data Engineer,India,₹,Indian Rupee,INR,700000.0,73.54916999999999,9517.44254897778, yr,Very High
+Data Engineer,Ukraine,,Ukrainian Hryvnia,UAH,,27.9666,,,
+Data Engineer,Argentina,ARS$,Argentine Peso,ARS,97000.0,82.425012333498,1176.8272427734735, mo,Very High
+Data Engineer,Tunisia,,Tunisian Dinar,TND,1650.0,,, mo,Low
+Database Administrator,Republic of Korea,,,,,1108.76,,,
+Database Administrator,China,¥,Yuan Renminbi,CNY,7007.0,6.543989,1070.753633601768, mo,High
+Database Administrator,Saudi Arabia,,Saudi Riyal,SAR,15767.0,3.75,4204.533333333334, mo,Low
+Database Administrator,Poland,,Polish zloty,PLN,9103.0,3.6484949999999996,2495.0013635759406, mo,High
+Database Administrator,Portugal,€,Euro,EUR,15856.0,0.822233,19284.071546629726, yr,Low
+Database Administrator,Mexico,MXN$,Mexican Peso,MXN,36000.0,20.042181,1796.2116997147168, mo,Very High
+Database Administrator,Thailand,฿,Thai Baht,THB,40000.0,30.079757,1329.7979767589213, mo,Low
+Database Administrator,Romania,,Romanian Leu,RON,3750.0,4.004851,936.3644240447396, mo,Very High
+Database Administrator,Taiwan,,,,59500.0,28.18,2111.4265436479773, mo,Low
+Database Administrator,Chile,,Chilean Peso,CLP,491433.0,733.55,669.9379728716516, mo,Low
+Database Administrator,Greece,€,Euro,EUR,1830.0,0.822233,2225.6465016607217, mo,Low
+Database Administrator,Brazil,R$,Brazilian Real,BRL,5917.0,5.0351093570136,1175.1482600388767, mo,Very High
+Database Administrator,Malaysia,,Malaysian Ringgit,MYR,6400.0,4.053527,1578.8719305434502, mo,Very High
+Database Administrator,Russia,₽,Russian Rouble,RUB,122000.0,73.005098,1671.1161732842272, mo,High
+Database Administrator,India,₹,Indian Rupee,INR,682000.0,73.54916999999999,9272.708312004066, yr,Very High
+Database Administrator,Ukraine,,Ukrainian Hryvnia,UAH,,27.9666,,,
+Database Administrator,Argentina,ARS$,Argentine Peso,ARS,71000.0,82.425012333498,861.3890127517177, mo,Low
+Database Administrator,Tunisia,,Tunisian Dinar,TND,,,,,
+Database Engineer,Republic of Korea,,,,,1108.76,,,
+Database Engineer,China,¥,Yuan Renminbi,CNY,243000.0,6.543989,37133.314252209166, yr,Low
+Database Engineer,Saudi Arabia,,Saudi Riyal,SAR,,3.75,,,
+Database Engineer,Poland,,Polish zloty,PLN,5508.0,3.6484949999999996,1509.6635736104888, mo,Low
+Database Engineer,Portugal,,Euro,EUR,,0.822233,,,
+Database Engineer,Mexico,MXN$,Mexican Peso,MXN,31000.0,20.042181,1546.7378525321171, mo,Low
+Database Engineer,Thailand,฿,Thai Baht,THB,55000.0,30.079757,1828.4722180435167, mo,Low
+Database Engineer,Romania,,Romanian Leu,RON,,4.004851,,,
+Database Engineer,Taiwan,,,,,28.18,,,
+Database Engineer,Chile,,Chilean Peso,CLP,,733.55,,,
+Database Engineer,Greece,€,Euro,EUR,1708.0,0.822233,2077.2700682166733, mo,Low
+Database Engineer,Brazil,R$,Brazilian Real,BRL,219000.0,5.0351093570136,43494.586606137236, yr,Low
+Database Engineer,Malaysia,,Malaysian Ringgit,MYR,4800.0,4.053527,1184.1539479075877, mo,Low
+Database Engineer,Russia,₽,Russian Rouble,RUB,158000.0,73.005098,2164.2324211385894, mo,Low
+Database Engineer,India,₹,Indian Rupee,INR,914000.0,73.54916999999999,12427.060699665273, yr,Very High
+Database Engineer,Ukraine,,Ukrainian Hryvnia,UAH,3000.0,27.9666,107.27081590182576, mo,Low
+Database Engineer,Argentina,,Argentine Peso,ARS,,82.425012333498,,,
+Database Engineer,Tunisia,,Tunisian Dinar,TND,,,,,
+Statistician,Republic of Korea,,,,,1108.76,,,
+Statistician,China,¥,Yuan Renminbi,CNY,7036.0,6.543989,1075.185181393184, mo,Low
+Statistician,Saudi Arabia,,Saudi Riyal,SAR,6375.0,3.75,1700.0, mo,Low
+Statistician,Poland,,Polish zloty,PLN,3965.0,3.6484949999999996,1086.7494679312979, mo,Low
+Statistician,Portugal,€,Euro,EUR,30150.0,0.822233,36668.43826506598, yr,Low
+Statistician,Mexico,MXN$,Mexican Peso,MXN,34000.0,20.042181,1696.422160841677, mo,Low
+Statistician,Thailand,,Thai Baht,THB,,30.079757,,,
+Statistician,Romania,,Romanian Leu,RON,3500.0,4.004851,873.9401291084237, mo,Low
+Statistician,Taiwan,,,,800000.0,28.18,28388.928317955997, yr,Low
+Statistician,Chile,,Chilean Peso,CLP,1510000.0,733.55,2058.4827210142457, mo,Low
+Statistician,Greece,,Euro,EUR,,0.822233,,,
+Statistician,Brazil,R$,Brazilian Real,BRL,5227.0,5.0351093570136,1038.1105214168006, mo,High
+Statistician,Malaysia,,Malaysian Ringgit,MYR,5600.0,4.053527,1381.512939225519, mo,Low
+Statistician,Russia,₽,Russian Rouble,RUB,141000.0,73.005098,1931.3719707629184, mo,Low
+Statistician,India,₹,Indian Rupee,INR,514000.0,73.54916999999999,6988.522100249399, yr,Very High
+Statistician,Ukraine,,Ukrainian Hryvnia,UAH,,27.9666,,,
+Statistician,Argentina,,Argentine Peso,ARS,,82.425012333498,,,
+Statistician,Tunisia,,Tunisian Dinar,TND,,,,,
+Data Analyst,Republic of Korea,,,,,1108.76,,,
+Data Analyst,China,¥,Yuan Renminbi,CNY,189000.0,6.543989,28881.46664060713, yr,Very High
+Data Analyst,Saudi Arabia,,Saudi Riyal,SAR,9431.0,3.75,2514.9333333333334, mo,Very High
+Data Analyst,Poland,,Polish zloty,PLN,49529.0,3.6484949999999996,13575.186481001072, yr,Very High
+Data Analyst,Portugal,€,Euro,EUR,22841.0,0.822233,27779.230461438547, yr,Very High
+Data Analyst,Mexico,MXN$,Mexican Peso,MXN,278000.0,20.042181,13870.745903352536, yr,Very High
+Data Analyst,Thailand,฿,Thai Baht,THB,28000.0,30.079757,930.8585837312448, mo,Very High
+Data Analyst,Romania,,Romanian Leu,RON,2850.0,4.004851,711.6369622740021, mo,Very High
+Data Analyst,Taiwan,,,,45000.0,28.18,1596.877217885025, mo,Very High
+Data Analyst,Chile,,Chilean Peso,CLP,1686000.0,733.55,2298.411832867562, mo,High
+Data Analyst,Greece,€,Euro,EUR,16000.0,0.822233,19459.20438610467, yr,Very High
+Data Analyst,Brazil,R$,Brazilian Real,BRL,47000.0,5.0351093570136,9334.454659764611, yr,Very High
+Data Analyst,Malaysia,,Malaysian Ringgit,MYR,50000.0,4.053527,12334.936957370704, yr,Very High
+Data Analyst,Russia,₽,Russian Rouble,RUB,126000.0,73.005098,1725.9068674902676, mo,Very High
+Data Analyst,India,₹,Indian Rupee,INR,500000.0,73.54916999999999,6798.173249269843, yr,Very High
+Data Analyst,Ukraine,,Ukrainian Hryvnia,UAH,180000.0,27.9666,6436.248954109545, yr,Low
+Data Analyst,Argentina,ARS$,Argentine Peso,ARS,68000.0,82.425012333498,824.9922939030536, mo,Very High
+Data Analyst,Tunisia,,Tunisian Dinar,TND,1900.0,,, mo,Low
+Machine Learning Engineer,Turkey,₺,Turkish Lira,TRY,80276.0,7.871073836539999,10198.862527160343, yr,Low
+Machine Learning Engineer,Philippines,,Philippine Piso,PHP,,48.032396000000006,,,
+Machine Learning Engineer,Peru,,Peru New Sol,PEN,,3.5865,,,
+Machine Learning Engineer,Colombia,,Colombian Peso,COP,114000.0,,, yr,Low
+Machine Learning Engineer,Belarus,,,,,2.5,,,
+Machine Learning Engineer,Indonesia,,Indonesia Rupiah,IDR,11962000.0,14155.903634,845.0184678616611, mo,Low
+Machine Learning Engineer,Morocco,,,,,8.96,,,
+Machine Learning Engineer,Pakistan,₨,Pakistan Rupee,PKR,67500.0,,, mo,Very High
+Machine Learning Engineer,Egypt,,,,8500.0,15.68,542.0918367346939, mo,High
+Machine Learning Engineer,Sri Lanka,,Sri Lanka Rupee,LKR,,186.67,,,
+Machine Learning Engineer,Nigeria,,,,150000.0,380.0,394.7368421052632, mo,Low
+Machine Learning Engineer,Kenya,,,,,111.09,,,
+Machine Learning Engineer,Iran,,Iranian Rial,IRR,37000000.0,,, yr,Low
+Machine Learning Engineer,Bangladesh,,,,50000.0,84.31,593.0494603249911, mo,High
+Data Scientist,Turkey,₺,Turkish Lira,TRY,7373.0,7.871073836539999,936.720980277458, mo,Very High
+Data Scientist,Philippines,,Philippine Piso,PHP,492000.0,48.032396000000006,10243.086770020798, yr,Very High
+Data Scientist,Peru,,Peru New Sol,PEN,4500.0,3.5865,1254.7051442910915, mo,Low
+Data Scientist,Colombia,,Colombian Peso,COP,5412000.0,,, mo,Very High
+Data Scientist,Belarus,,,,,2.5,,,
+Data Scientist,Indonesia,,Indonesia Rupiah,IDR,13094000.0,14155.903634,924.9851043454764, mo,Very High
+Data Scientist,Morocco,,,,400000.0,8.96,44642.85714285714, yr,Low
+Data Scientist,Pakistan,₨,Pakistan Rupee,PKR,950000.0,,, yr,Very High
+Data Scientist,Egypt,,,,10000.0,15.68,637.7551020408164, mo,Very High
+Data Scientist,Sri Lanka,,Sri Lanka Rupee,LKR,14000000.0,186.67,74998.66073820111, yr,Low
+Data Scientist,Nigeria,,,,2772000.0,380.0,7294.736842105263, yr,Low
+Data Scientist,Kenya,,,,,111.09,,,
+Data Scientist,Iran,,Iranian Rial,IRR,55500000.0,,, mo,Very High
+Data Scientist,Bangladesh,,,,70000.0,84.31,830.2692444549875, mo,Low
+Research Scientist,Turkey,₺,Turkish Lira,TRY,101000.0,7.871073836539999,12831.794250376137, yr,Low
+Research Scientist,Philippines,,Philippine Piso,PHP,38000.0,48.032396000000006,791.1327180097365, mo,Low
+Research Scientist,Peru,,Peru New Sol,PEN,,3.5865,,,
+Research Scientist,Colombia,,Colombian Peso,COP,,,,,
+Research Scientist,Belarus,,,,,2.5,,,
+Research Scientist,Indonesia,,Indonesia Rupiah,IDR,13982000.0,14155.903634,987.7151160041585, mo,Low
+Research Scientist,Morocco,,,,,8.96,,,
+Research Scientist,Pakistan,₨,Pakistan Rupee,PKR,30000.0,,, mo,Low
+Research Scientist,Egypt,,,,4000.0,15.68,255.10204081632654, mo,Low
+Research Scientist,Sri Lanka,,Sri Lanka Rupee,LKR,50000.0,186.67,267.85235977928966, mo,Low
+Research Scientist,Nigeria,,,,1000000.0,380.0,2631.5789473684213, yr,Low
+Research Scientist,Kenya,,,,115000.0,111.09,1035.1966873706003, mo,Low
+Research Scientist,Iran,,Iranian Rial,IRR,,,,,
+Research Scientist,Bangladesh,,,,,84.31,,,
+Software Engineer,Turkey,₺,Turkish Lira,TRY,112000.0,7.871073836539999,14229.316396456707, yr,Very High
+Software Engineer,Philippines,,Philippine Piso,PHP,390000.0,48.032396000000006,8119.520000626243, yr,Very High
+Software Engineer,Peru,,Peru New Sol,PEN,5000.0,3.5865,1394.1168269901018, mo,Very High
+Software Engineer,Colombia,,Colombian Peso,COP,73572000.0,,, yr,Very High
+Software Engineer,Belarus,,,,6000.0,2.5,2400.0, mo,Very High
+Software Engineer,Indonesia,,Indonesia Rupiah,IDR,90067000.0,14155.903634,6362.504459529863, yr,Very High
+Software Engineer,Morocco,,,,9500.0,8.96,1060.267857142857, mo,Very High
+Software Engineer,Pakistan,₨,Pakistan Rupee,PKR,650000.0,,, yr,Very High
+Software Engineer,Egypt,,,,93000.0,15.68,5931.122448979592, yr,Very High
+Software Engineer,Sri Lanka,,Sri Lanka Rupee,LKR,580000.0,186.67,3107.08737343976, yr,Very High
+Software Engineer,Nigeria,,,,2915000.0,380.0,7671.0526315789475, yr,Very High
+Software Engineer,Kenya,,,,1800000.0,111.09,16203.078584931136, yr,Very High
+Software Engineer,Iran,,Iranian Rial,IRR,240000.0,,, yr,Very High
+Software Engineer,Bangladesh,,,,480000.0,84.31,5693.274819119914, yr,Very High
+Business Analyst,Turkey,₺,Turkish Lira,TRY,92533.0,7.871073836539999,11756.083340297575, yr,Very High
+Business Analyst,Philippines,,Philippine Piso,PHP,419400.0,48.032396000000006,8731.606892981144, yr,Very High
+Business Analyst,Peru,,Peru New Sol,PEN,5050.0,3.5865,1408.0579952600028, mo,High
+Business Analyst,Colombia,,Colombian Peso,COP,4522000.0,,, mo,Very High
+Business Analyst,Belarus,,,,53500.0,2.5,21400.0, yr,Low
+Business Analyst,Indonesia,,Indonesia Rupiah,IDR,163000.0,14155.903634,11.514630518429255, yr,Very High
+Business Analyst,Morocco,,,,14000.0,8.96,1562.4999999999998, mo,Very High
+Business Analyst,Pakistan,₨,Pakistan Rupee,PKR,1050000.0,,, yr,Very High
+Business Analyst,Egypt,,,,6700.0,15.68,427.2959183673469, mo,Very High
+Business Analyst,Sri Lanka,,Sri Lanka Rupee,LKR,65000.0,186.67,348.20806771307656, mo,Very High
+Business Analyst,Nigeria,,,,1950000.0,380.0,5131.578947368421, yr,Very High
+Business Analyst,Kenya,,,,87000.0,111.09,783.1487982716716, mo,Very High
+Business Analyst,Iran,,Iranian Rial,IRR,47000000.0,,, mo,Very High
+Business Analyst,Bangladesh,,,,34000.0,84.31,403.27363302099394, mo,Very High
+Product Manager,Turkey,₺,Turkish Lira,TRY,149000.0,7.871073836539999,18930.07270600044, yr,Very High
+Product Manager,Philippines,,Philippine Piso,PHP,530000.0,48.032396000000006,11034.219488030536, yr,Very High
+Product Manager,Peru,,Peru New Sol,PEN,120000.0,3.5865,33458.80384776244, yr,Very High
+Product Manager,Colombia,,Colombian Peso,COP,7931000.0,,, mo,Very High
+Product Manager,Belarus,,,,5500000.0,2.5,2200000.0, mo,Low
+Product Manager,Indonesia,,Indonesia Rupiah,IDR,40000000.0,14155.903634,2825.676200841535, yr,Very High
+Product Manager,Morocco,,,,20000.0,8.96,2232.142857142857, mo,High
+Product Manager,Pakistan,₨,Pakistan Rupee,PKR,100000.0,,, mo,Very High
+Product Manager,Egypt,,,,11000.0,15.68,701.530612244898, mo,Very High
+Product Manager,Sri Lanka,,Sri Lanka Rupee,LKR,128000.0,186.67,685.7020410349816, mo,Low
+Product Manager,Nigeria,,,,5000000.0,380.0,13157.894736842105, yr,Very High
+Product Manager,Kenya,,,,243500.0,111.09,2191.916464128184, mo,Very High
+Product Manager,Iran,,Iranian Rial,IRR,70000000.0,,, mo,Very High
+Product Manager,Bangladesh,,,,50000.0,84.31,593.0494603249911, mo,Very High
+Project Manager,Turkey,₺,Turkish Lira,TRY,171000.0,7.871073836539999,21725.11699816158, yr,Very High
+Project Manager,Philippines,,Philippine Piso,PHP,960000.0,48.032396000000006,19986.51077077229, yr,Very High
+Project Manager,Peru,,Peru New Sol,PEN,8200.0,3.5865,2286.351596263767, mo,Very High
+Project Manager,Colombia,,Colombian Peso,COP,73784000.0,,, yr,Very High
+Project Manager,Belarus,,,,15000000.0,2.5,6000000.0, yr,Low
+Project Manager,Indonesia,,Indonesia Rupiah,IDR,200000.0,14155.903634,14.128381004207675, yr,Very High
+Project Manager,Morocco,,,,18000.0,8.96,2008.9285714285713, mo,Very High
+Project Manager,Pakistan,₨,Pakistan Rupee,PKR,400000.0,,, yr,Very High
+Project Manager,Egypt,,,,120000.0,15.68,7653.061224489796, yr,Very High
+Project Manager,Sri Lanka,,Sri Lanka Rupee,LKR,180000.0,186.67,964.2684952054428, mo,Very High
+Project Manager,Nigeria,,,,5100000.0,380.0,13421.052631578947, yr,Very High
+Project Manager,Kenya,,,,150000.0,111.09,1350.2565487442614, mo,Very High
+Project Manager,Iran,,Iranian Rial,IRR,47000000.0,,, mo,Very High
+Project Manager,Bangladesh,,,,240000.0,84.31,2846.637409559957, yr,Very High
+Data Engineer,Turkey,₺,Turkish Lira,TRY,6994.0,7.871073836539999,888.5699899715911, mo,Very High
+Data Engineer,Philippines,,Philippine Piso,PHP,45000.0,48.032396000000006,936.8676923799511, mo,Very High
+Data Engineer,Peru,,Peru New Sol,PEN,5200.0,3.5865,1449.881500069706, mo,Low
+Data Engineer,Colombia,,Colombian Peso,COP,3507000.0,,, mo,Very High
+Data Engineer,Belarus,,,,18000.0,2.5,7200.0, yr,Low
+Data Engineer,Indonesia,,Indonesia Rupiah,IDR,12694000.0,14155.903634,896.7283423370611, mo,Very High
+Data Engineer,Morocco,,,,19000.0,8.96,2120.535714285714, mo,Low
+Data Engineer,Pakistan,₨,Pakistan Rupee,PKR,107000.0,,, mo,High
+Data Engineer,Egypt,,,,7000.0,15.68,446.42857142857144, mo,High
+Data Engineer,Sri Lanka,,Sri Lanka Rupee,LKR,7200000.0,186.67,38570.73980821771, yr,Low
+Data Engineer,Nigeria,,,,,380.0,,,
+Data Engineer,Kenya,,,,,111.09,,,
+Data Engineer,Iran,,Iranian Rial,IRR,600000.0,,, yr,High
+Data Engineer,Bangladesh,,,,2400000.0,84.31,28466.37409559957, yr,Low
+Database Administrator,Turkey,₺,Turkish Lira,TRY,8034.0,7.871073836539999,1020.6993565101177, mo,Very High
+Database Administrator,Philippines,,Philippine Piso,PHP,43500.0,48.032396000000006,905.6387693006194, mo,Very High
+Database Administrator,Peru,,Peru New Sol,PEN,2000.0,3.5865,557.6467307960407, mo,Low
+Database Administrator,Colombia,,Colombian Peso,COP,,,,,
+Database Administrator,Belarus,,,,,2.5,,,
+Database Administrator,Indonesia,,Indonesia Rupiah,IDR,34128000.0,14155.903634,2410.866934557998, mo,Very High
+Database Administrator,Morocco,,,,,8.96,,,
+Database Administrator,Pakistan,₨,Pakistan Rupee,PKR,66000.0,,, mo,High
+Database Administrator,Egypt,,,,4850.0,15.68,309.3112244897959, mo,Very High
+Database Administrator,Sri Lanka,,Sri Lanka Rupee,LKR,130000.0,186.67,696.4161354261531, mo,Low
+Database Administrator,Nigeria,,,,8000000.0,380.0,21052.63157894737, yr,High
+Database Administrator,Kenya,,,,60000.0,111.09,540.1026194977045, mo,Low
+Database Administrator,Iran,,Iranian Rial,IRR,50000000.0,,, mo,Low
+Database Administrator,Bangladesh,,,,150000.0,84.31,1779.1483809749732, mo,Low
+Database Engineer,Turkey,₺,Turkish Lira,TRY,7231.0,7.871073836539999,918.6802398462361, mo,Low
+Database Engineer,Philippines,,Philippine Piso,PHP,,48.032396000000006,,,
+Database Engineer,Peru,,Peru New Sol,PEN,,3.5865,,,
+Database Engineer,Colombia,,Colombian Peso,COP,,,,,
+Database Engineer,Belarus,,,,,2.5,,,
+Database Engineer,Indonesia,,Indonesia Rupiah,IDR,7990000.0,14155.903634,564.4288211180966, mo,Low
+Database Engineer,Morocco,,,,,8.96,,,
+Database Engineer,Pakistan,,Pakistan Rupee,PKR,,,,,
+Database Engineer,Egypt,,,,,15.68,,,
+Database Engineer,Sri Lanka,,Sri Lanka Rupee,LKR,,186.67,,,
+Database Engineer,Nigeria,,,,,380.0,,,
+Database Engineer,Kenya,,,,,111.09,,,
+Database Engineer,Iran,,Iranian Rial,IRR,,,,,
+Database Engineer,Bangladesh,,,,30000.0,84.31,355.82967619499465, mo,Low
+Statistician,Turkey,₺,Turkish Lira,TRY,5627.0,7.871073836539999,714.8961014541239, mo,Low
+Statistician,Philippines,,Philippine Piso,PHP,24000.0,48.032396000000006,499.66276926930726, mo,Low
+Statistician,Peru,,Peru New Sol,PEN,,3.5865,,,
+Statistician,Colombia,,Colombian Peso,COP,,,,,
+Statistician,Belarus,,,,,2.5,,,
+Statistician,Indonesia,,Indonesia Rupiah,IDR,8083000.0,14155.903634,570.9985182850531, mo,Low
+Statistician,Morocco,,,,,8.96,,,
+Statistician,Pakistan,₨,Pakistan Rupee,PKR,50000.0,,, mo,Low
+Statistician,Egypt,,,,6425.0,15.68,409.7576530612245, mo,Low
+Statistician,Sri Lanka,,Sri Lanka Rupee,LKR,,186.67,,,
+Statistician,Nigeria,,,,,380.0,,,
+Statistician,Kenya,,,,75000.0,111.09,675.1282743721307, mo,Low
+Statistician,Iran,,Iranian Rial,IRR,,,,,
+Statistician,Bangladesh,,,,,84.31,,,
+Data Analyst,Turkey,₺,Turkish Lira,TRY,6135.0,7.871073836539999,779.4362151094812, mo,Very High
+Data Analyst,Philippines,,Philippine Piso,PHP,250000.0,48.032396000000006,5204.820513221951, yr,Very High
+Data Analyst,Peru,,Peru New Sol,PEN,4000.0,3.5865,1115.2934615920815, mo,High
+Data Analyst,Colombia,,Colombian Peso,COP,3105000.0,,, mo,High
+Data Analyst,Belarus,,,,,2.5,,,
+Data Analyst,Indonesia,,Indonesia Rupiah,IDR,29949000.0,14155.903634,2115.6544134750784, yr,Very High
+Data Analyst,Morocco,,,,9250.0,8.96,1032.3660714285713, mo,High
+Data Analyst,Pakistan,₨,Pakistan Rupee,PKR,1062000.0,,, yr,Very High
+Data Analyst,Egypt,,,,5000.0,15.68,318.8775510204082, mo,Very High
+Data Analyst,Sri Lanka,,Sri Lanka Rupee,LKR,20000.0,186.67,107.14094391171587, yr,Low
+Data Analyst,Nigeria,,,,2500000.0,380.0,6578.9473684210525, yr,Very High
+Data Analyst,Kenya,,,,42500.0,111.09,382.57268881087407, mo,Very High
+Data Analyst,Iran,,Iranian Rial,IRR,32000000.0,,, mo,High
+Data Analyst,Bangladesh,,,,16000.0,84.31,189.77582730399715, mo,Very High
+Machine Learning Engineer,Vietnam,,,,10000000.0,23134.5,432.2548574639608, mo,Low
+Data Scientist,Vietnam,,,,20000000.0,23134.5,864.5097149279216, mo,High
+Research Scientist,Vietnam,,,,,23134.5,,,
+Software Engineer,Vietnam,,,,128000.0,23134.5,5.532862175538698, yr,Very High
+Business Analyst,Vietnam,,,,15850000.0,23134.5,685.1239490803778, mo,Very High
+Product Manager,Vietnam,,,,34000000.0,23134.5,1469.6665153774666, mo,Very High
+Project Manager,Vietnam,,,,25000000.0,23134.5,1080.6371436599018, mo,Very High
+Data Engineer,Vietnam,,,,35000000.0,23134.5,1512.8920011238627, mo,Very High
+Database Administrator,Vietnam,,,,,23134.5,,,
+Database Engineer,Vietnam,,,,,23134.5,,,
+Statistician,Vietnam,,,,,23134.5,,,
+Data Analyst,Vietnam,,,,9000000.0,23134.5,389.0293717175647, mo,Very High
